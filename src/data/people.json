@@ -1,0 +1,15 @@
+[
+  {
+    "id": "pornthep-sompornpisut",
+    "name": "Pornthep Sompornpisut",
+    "nameLocal": "พรเทพ สมพรพิสุทธิ์",
+    "titles": [{ "en": "Professor", "th": "ศาสตราจารย์" }],
+    "biography": {
+      "en": "Professor Pornthep Sompornpisut is the author and maintainer of PS ChemLab, an independent portal for chemistry education and research resources.",
+      "th": "ศาสตราจารย์พรเทพ สมพรพิสุทธิ์ เป็นผู้จัดทำและดูแล PS ChemLab ซึ่งเป็นแหล่งทรัพยากรอิสระด้านการศึกษาและการวิจัยทางเคมี"
+    },
+    "roles": [{ "en": "Author and maintainer", "th": "ผู้จัดทำและดูแลเว็บไซต์" }],
+    "expertise": [{ "en": "Computational chemistry", "th": "เคมีคอมพิวเตอร์" }],
+    "contact": { "email": "contact@example.com" }
+  }
+]

@@ -1,0 +1,222 @@
+{
+  "courseCode": "2302338",
+  "courseTitle": "",
+  "lectureCount": 43,
+  "lectures": [
+    {
+      "chapter": "Rovibration",
+      "topic": "01: Outlines",
+      "youtube": "https://youtu.be/t_GYKDYfjvU"
+    },
+    {
+      "chapter": "Rovibration",
+      "topic": "02: Quantum Mechanics of Vibration: Overview ",
+      "youtube": "https://youtu.be/-eudeZT0teo"
+    },
+    {
+      "chapter": "Rovibration",
+      "topic": "03: Quantum Mechanics of Rigid Rotation: Overview",
+      "youtube": "https://youtu.be/GtEslvqevzc"
+    },
+    {
+      "chapter": "Rovibration",
+      "topic": "04: Rovibration Energy  ",
+      "youtube": "https://youtu.be/ADlSqcn_9dk"
+    },
+    {
+      "chapter": "Rovibration",
+      "topic": "05: Rovibrational Transition and Spectrum",
+      "youtube": "https://youtu.be/VfzailAmkVI"
+    },
+    {
+      "chapter": "Rovibration",
+      "topic": "06: Exercise",
+      "youtube": "https://youtu.be/Vg1YviNL1Dw"
+    },
+    {
+      "chapter": "Rovibration",
+      "topic": "07: Characteristic Rovibrational Spectra",
+      "youtube": "https://youtu.be/8zCKOV4ri0M"
+    },
+    {
+      "chapter": "Rovibration",
+      "topic": "08: Peak Splitting",
+      "youtube": "https://youtu.be/Tm7svrgOgE0"
+    },
+    {
+      "chapter": "Rovibration",
+      "topic": "09: Intensity of Spectral Lines",
+      "youtube": "https://youtu.be/meBuUNhXkh4"
+    },
+    {
+      "chapter": "Rovibration",
+      "topic": "10: Rovibration of non-rigid rotor",
+      "youtube": "https://youtu.be/bw5RjXZOaKA"
+    },
+    {
+      "chapter": "Rovibration",
+      "topic": "11: Exercise",
+      "youtube": "https://youtu.be/ViK_nZGnh4Y"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "01: Outlines",
+      "youtube": "https://youtu.be/aWvxy65E0Hg"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "02: Principle of electronic transition ",
+      "youtube": "https://youtu.be/yobxExj4WK0"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "03: Molecular term symbol",
+      "youtube": "https://youtu.be/XO4WONXz7qY"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "04: Some examples of molecular term symbol",
+      "youtube": "https://youtu.be/HBC8vrehx8w"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "05: g/u symmetry of MO",
+      "youtube": "https://youtu.be/bkPI4xsZ8Y4"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "06: g/u symmetry of MO (more)",
+      "youtube": "https://youtu.be/2zQfH4aItQ4"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "07: +/- symmetry of MO",
+      "youtube": "https://youtu.be/IdFldaIikXk"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "08: MO diagram of diatomic molecules",
+      "youtube": "https://youtu.be/qy8xICF6wU8"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "09: Molecular term symbol-1 ",
+      "youtube": "https://youtu.be/ByjmeqWwgH4"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "10: Molecular term symbol-2 ",
+      "youtube": "https://youtu.be/xNTGUPpVsDM"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "10: MO diagram & O2 ground state term symbol",
+      "youtube": "https://youtu.be/SqVBXhAmXac"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "11:  O2 excited state term symbol",
+      "youtube": "https://youtu.be/V_Iugkl_BzM"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "12: Selection rule",
+      "youtube": "https://youtu.be/CSX6CxB4x7U"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "13: Electronic excitation in O2 & exercise",
+      "youtube": "https://youtu.be/BTxhOFI984I"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "14: Vibration in electronic transition: Theory ",
+      "youtube": "https://youtu.be/S84Rk4xDCck"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "15: Franck-Condon Principle",
+      "youtube": "https://youtu.be/QZHmkmm21SI"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "16: Electronic excitation of polyatomic molecules",
+      "youtube": "https://youtu.be/zDVvS5K3XsU"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "17: Florescence & Phosphorescence",
+      "youtube": "https://youtu.be/ahgv3Kd4McY"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "18: Jablonski diagram",
+      "youtube": "https://youtu.be/WK_ALvDD4oU"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "19: A simple way with examples to understand sigma, pi and non-bond transitions of chromophore",
+      "youtube": "https://youtu.be/7gGKCClJu2Q"
+    },
+    {
+      "chapter": "Electronic transition",
+      "topic": "20: Mechanism of Intersystem Crossing",
+      "youtube": "https://youtu.be/YkueDLtADGQ"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "01: Outlines",
+      "youtube": "https://youtu.be/BXzV8ooMh5Q"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "02: Spin nunber & magnetic moment",
+      "youtube": "https://youtu.be/Xvd77p6FgWc"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "03: Exercise",
+      "youtube": "https://youtu.be/CnYIUZjGrNQ"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "04: Spin angular momemtum operators & eigenfunctions",
+      "youtube": "https://youtu.be/0yDz_g4GHUQ"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "05: Nuclei energy in a magnetic field",
+      "youtube": "https://youtu.be/2i3D6tl8NgY"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "06: Selection rule",
+      "youtube": "https://youtu.be/K_Hm8jcriX0"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "07: Larmor frequency",
+      "youtube": "https://youtu.be/ZdkTnkOYjCQ"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "08: The chemical shift",
+      "youtube": "https://youtu.be/Wg_lcgsiGEE"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "09: Spin-spin coupling-1: non-interacting spins ",
+      "youtube": "https://youtu.be/FRPGh3yJ2Pc"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "10: Spin-spin coupling-2: transition energy of non-interacting spins ",
+      "youtube": "https://youtu.be/nsUA59z3Ld4"
+    },
+    {
+      "chapter": "NMR",
+      "topic": "11: Spin-spin coupling-3: Interacting spins",
+      "youtube": "https://youtu.be/CjFD-L7cjg8"
+    }
+  ]
+}

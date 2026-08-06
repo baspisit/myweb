@@ -1,0 +1,2 @@
+import { Squares2X2Icon, Bars3Icon } from '@heroicons/react/24/outline';
+export function ViewModeToggle({ mode, onChange }: { mode: 'grid' | 'list'; onChange: (mode: 'grid' | 'list') => void }) { return <div className="flex rounded-md border border-line"><button aria-label="Grid view" onClick={() => onChange('grid')} className="p-2" aria-pressed={mode === 'grid'}><Squares2X2Icon className="size-5" /></button><button aria-label="List view" onClick={() => onChange('list')} className="p-2" aria-pressed={mode === 'list'}><Bars3Icon className="size-5" /></button></div>; }

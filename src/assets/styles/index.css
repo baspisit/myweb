@@ -1,0 +1,13 @@
+@import './tokens.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply m-0 min-w-80 bg-canvas font-sans text-ink antialiased; text-rendering: optimizeLegibility; }
+  h1, h2, h3 { @apply text-balance; }
+  p { @apply text-pretty; }
+  button, a { @apply focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent; }
+  ::selection { @apply bg-accent/20 text-ink; }
+}

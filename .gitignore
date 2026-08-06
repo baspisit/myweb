@@ -1,0 +1,12 @@
+node_modules
+dist
+.vite
+*.local
+*.tsbuildinfo
+coverage
+~$*.xlsx
+*.zip
+*.xlsx
+*.txt
+!robots.txt
+artifacts/

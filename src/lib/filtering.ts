@@ -1,0 +1,1 @@
+export function byQuery<T>(items: T[], query: string, select: (item: T) => string) { const normalized = query.trim().toLowerCase(); return normalized ? items.filter((item) => select(item).toLowerCase().includes(normalized)) : items; }

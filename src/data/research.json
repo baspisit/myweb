@@ -1,0 +1,20 @@
+[
+  {
+    "id": "molecular-modeling",
+    "slug": "molecular-modeling",
+    "title": {
+      "en": "Molecular Modeling",
+      "th": "การจำลองระดับโมเลกุล"
+    },
+    "summary": {
+      "en": "Computational chemistry research focused on modeling molecular structures, interactions, and chemical behavior.",
+      "th": "งานวิจัยเคมีคอมพิวเตอร์ที่มุ่งเน้นการจำลองโครงสร้างโมเลกุล อันตรกิริยา และพฤติกรรมทางเคมี"
+    },
+    "currentStatus": "active",
+    "researchAreas": ["computational chemistry"],
+    "publicationIds": [],
+    "status": "published",
+    "featured": true,
+    "tags": ["modeling"]
+  }
+]

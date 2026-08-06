@@ -1,0 +1,20 @@
+{
+  "courses": [
+    {
+      "courseCode": "2302338",
+      "courseTitle": "",
+      "lectureCount": 43
+    },
+    {
+      "courseCode": "2302237",
+      "courseTitle": "",
+      "lectureCount": 54
+    },
+    {
+      "courseCode": "2302236",
+      "courseTitle": "",
+      "lectureCount": 54
+    }
+  ],
+  "softwareCount": 9
+}

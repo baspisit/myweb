@@ -1,0 +1,2453 @@
+[
+  {
+    "id": "course-2302338-01-outlines",
+    "slug": "course-2302338-01-outlines",
+    "title": {
+      "en": "01: Outlines",
+      "th": "01: Outlines"
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "t_GYKDYfjvU",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-02-quantum-mechanics-of-vibration-overview",
+    "slug": "course-2302338-02-quantum-mechanics-of-vibration-overview",
+    "title": {
+      "en": "02: Quantum Mechanics of Vibration: Overview ",
+      "th": "02: Quantum Mechanics of Vibration: Overview "
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "-eudeZT0teo",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-03-quantum-mechanics-of-rigid-rotation-overview",
+    "slug": "course-2302338-03-quantum-mechanics-of-rigid-rotation-overview",
+    "title": {
+      "en": "03: Quantum Mechanics of Rigid Rotation: Overview",
+      "th": "03: Quantum Mechanics of Rigid Rotation: Overview"
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "GtEslvqevzc",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-04-rovibration-energy",
+    "slug": "course-2302338-04-rovibration-energy",
+    "title": {
+      "en": "04: Rovibration Energy  ",
+      "th": "04: Rovibration Energy  "
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "ADlSqcn_9dk",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-05-rovibrational-transition-and-spectrum",
+    "slug": "course-2302338-05-rovibrational-transition-and-spectrum",
+    "title": {
+      "en": "05: Rovibrational Transition and Spectrum",
+      "th": "05: Rovibrational Transition and Spectrum"
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "VfzailAmkVI",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-06-exercise",
+    "slug": "course-2302338-06-exercise",
+    "title": {
+      "en": "06: Exercise",
+      "th": "06: Exercise"
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "Vg1YviNL1Dw",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-07-characteristic-rovibrational-spectra",
+    "slug": "course-2302338-07-characteristic-rovibrational-spectra",
+    "title": {
+      "en": "07: Characteristic Rovibrational Spectra",
+      "th": "07: Characteristic Rovibrational Spectra"
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "8zCKOV4ri0M",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-08-peak-splitting",
+    "slug": "course-2302338-08-peak-splitting",
+    "title": {
+      "en": "08: Peak Splitting",
+      "th": "08: Peak Splitting"
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "Tm7svrgOgE0",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-09-intensity-of-spectral-lines",
+    "slug": "course-2302338-09-intensity-of-spectral-lines",
+    "title": {
+      "en": "09: Intensity of Spectral Lines",
+      "th": "09: Intensity of Spectral Lines"
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "meBuUNhXkh4",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-10-rovibration-of-non-rigid-rotor",
+    "slug": "course-2302338-10-rovibration-of-non-rigid-rotor",
+    "title": {
+      "en": "10: Rovibration of non-rigid rotor",
+      "th": "10: Rovibration of non-rigid rotor"
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "bw5RjXZOaKA",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-11-exercise",
+    "slug": "course-2302338-11-exercise",
+    "title": {
+      "en": "11: Exercise",
+      "th": "11: Exercise"
+    },
+    "summary": {
+      "en": "Rovibration",
+      "th": "Rovibration"
+    },
+    "youtubeId": "ViK_nZGnh4Y",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-01-outlines-2",
+    "slug": "course-2302338-01-outlines-2",
+    "title": {
+      "en": "01: Outlines",
+      "th": "01: Outlines"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "aWvxy65E0Hg",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-02-principle-of-electronic-transition",
+    "slug": "course-2302338-02-principle-of-electronic-transition",
+    "title": {
+      "en": "02: Principle of electronic transition ",
+      "th": "02: Principle of electronic transition "
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "yobxExj4WK0",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-03-molecular-term-symbol",
+    "slug": "course-2302338-03-molecular-term-symbol",
+    "title": {
+      "en": "03: Molecular term symbol",
+      "th": "03: Molecular term symbol"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "XO4WONXz7qY",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-03-molecular-term-symbol-2",
+    "slug": "course-2302338-03-molecular-term-symbol-2",
+    "title": {
+      "en": "03: Molecular term symbol",
+      "th": "03: Molecular term symbol"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "gmJoxFAcK9A",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-04-some-examples-of-molecular-term-symbol",
+    "slug": "course-2302338-04-some-examples-of-molecular-term-symbol",
+    "title": {
+      "en": "04: Some examples of molecular term symbol",
+      "th": "04: Some examples of molecular term symbol"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "HBC8vrehx8w",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-05-g-u-symmetry-of-mo",
+    "slug": "course-2302338-05-g-u-symmetry-of-mo",
+    "title": {
+      "en": "05: g/u symmetry of MO",
+      "th": "05: g/u symmetry of MO"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "bkPI4xsZ8Y4",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-06-g-u-symmetry-of-mo-more",
+    "slug": "course-2302338-06-g-u-symmetry-of-mo-more",
+    "title": {
+      "en": "06: g/u symmetry of MO (more)",
+      "th": "06: g/u symmetry of MO (more)"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "2zQfH4aItQ4",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-07-symmetry-of-mo",
+    "slug": "course-2302338-07-symmetry-of-mo",
+    "title": {
+      "en": "07: +/- symmetry of MO",
+      "th": "07: +/- symmetry of MO"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "IdFldaIikXk",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-08-mo-diagram-of-diatomic-molecules",
+    "slug": "course-2302338-08-mo-diagram-of-diatomic-molecules",
+    "title": {
+      "en": "08: MO diagram of diatomic molecules",
+      "th": "08: MO diagram of diatomic molecules"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "qy8xICF6wU8",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-09-molecular-term-symbol-1",
+    "slug": "course-2302338-09-molecular-term-symbol-1",
+    "title": {
+      "en": "09: Molecular term symbol-1 ",
+      "th": "09: Molecular term symbol-1 "
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "ByjmeqWwgH4",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-10-molecular-term-symbol-2",
+    "slug": "course-2302338-10-molecular-term-symbol-2",
+    "title": {
+      "en": "10: Molecular term symbol-2 ",
+      "th": "10: Molecular term symbol-2 "
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "xNTGUPpVsDM",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-10-mo-diagram-o2-ground-state-term-symbol",
+    "slug": "course-2302338-10-mo-diagram-o2-ground-state-term-symbol",
+    "title": {
+      "en": "10: MO diagram & O2 ground state term symbol",
+      "th": "10: MO diagram & O2 ground state term symbol"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "SqVBXhAmXac",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-11-o2-excited-state-term-symbol",
+    "slug": "course-2302338-11-o2-excited-state-term-symbol",
+    "title": {
+      "en": "11:  O2 excited state term symbol",
+      "th": "11:  O2 excited state term symbol"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "V_Iugkl_BzM",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-12-selection-rule",
+    "slug": "course-2302338-12-selection-rule",
+    "title": {
+      "en": "12: Selection rule",
+      "th": "12: Selection rule"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "CSX6CxB4x7U",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-13-electronic-excitation-in-o2-exercise",
+    "slug": "course-2302338-13-electronic-excitation-in-o2-exercise",
+    "title": {
+      "en": "13: Electronic excitation in O2 & exercise",
+      "th": "13: Electronic excitation in O2 & exercise"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "BTxhOFI984I",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-14-vibration-in-electronic-transition-theory",
+    "slug": "course-2302338-14-vibration-in-electronic-transition-theory",
+    "title": {
+      "en": "14: Vibration in electronic transition: Theory ",
+      "th": "14: Vibration in electronic transition: Theory "
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "S84Rk4xDCck",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-15-franck-condon-principle",
+    "slug": "course-2302338-15-franck-condon-principle",
+    "title": {
+      "en": "15: Franck-Condon Principle",
+      "th": "15: Franck-Condon Principle"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "QZHmkmm21SI",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-16-electronic-excitation-of-polyatomic-molecules",
+    "slug": "course-2302338-16-electronic-excitation-of-polyatomic-molecules",
+    "title": {
+      "en": "16: Electronic excitation of polyatomic molecules",
+      "th": "16: Electronic excitation of polyatomic molecules"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "zDVvS5K3XsU",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-17-florescence-phosphorescence",
+    "slug": "course-2302338-17-florescence-phosphorescence",
+    "title": {
+      "en": "17: Florescence & Phosphorescence",
+      "th": "17: Florescence & Phosphorescence"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "ahgv3Kd4McY",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-18-jablonski-diagram",
+    "slug": "course-2302338-18-jablonski-diagram",
+    "title": {
+      "en": "18: Jablonski diagram",
+      "th": "18: Jablonski diagram"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "WK_ALvDD4oU",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-19-a-simple-way-with-examples-to-understand-sigma-pi-and-non-bond-transitions-of-chromophore",
+    "slug": "course-2302338-19-a-simple-way-with-examples-to-understand-sigma-pi-and-non-bond-transitions-of-chromophore",
+    "title": {
+      "en": "19: A simple way with examples to understand sigma, pi and non-bond transitions of chromophore",
+      "th": "19: A simple way with examples to understand sigma, pi and non-bond transitions of chromophore"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "7gGKCClJu2Q",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-20-mechanism-of-intersystem-crossing",
+    "slug": "course-2302338-20-mechanism-of-intersystem-crossing",
+    "title": {
+      "en": "20: Mechanism of Intersystem Crossing",
+      "th": "20: Mechanism of Intersystem Crossing"
+    },
+    "summary": {
+      "en": "Electronic transition",
+      "th": "Electronic transition"
+    },
+    "youtubeId": "YkueDLtADGQ",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-01-outlines-3",
+    "slug": "course-2302338-01-outlines-3",
+    "title": {
+      "en": "01: Outlines",
+      "th": "01: Outlines"
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "BXzV8ooMh5Q",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-02-spin-nunber-magnetic-moment",
+    "slug": "course-2302338-02-spin-nunber-magnetic-moment",
+    "title": {
+      "en": "02: Spin nunber & magnetic moment",
+      "th": "02: Spin nunber & magnetic moment"
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "Xvd77p6FgWc",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-03-exercise",
+    "slug": "course-2302338-03-exercise",
+    "title": {
+      "en": "03: Exercise",
+      "th": "03: Exercise"
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "CnYIUZjGrNQ",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-04-spin-angular-momemtum-operators-eigenfunctions",
+    "slug": "course-2302338-04-spin-angular-momemtum-operators-eigenfunctions",
+    "title": {
+      "en": "04: Spin angular momemtum operators & eigenfunctions",
+      "th": "04: Spin angular momemtum operators & eigenfunctions"
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "0yDz_g4GHUQ",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-05-nuclei-energy-in-a-magnetic-field",
+    "slug": "course-2302338-05-nuclei-energy-in-a-magnetic-field",
+    "title": {
+      "en": "05: Nuclei energy in a magnetic field",
+      "th": "05: Nuclei energy in a magnetic field"
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "2i3D6tl8NgY",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-06-selection-rule",
+    "slug": "course-2302338-06-selection-rule",
+    "title": {
+      "en": "06: Selection rule",
+      "th": "06: Selection rule"
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "K_Hm8jcriX0",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-07-larmor-frequency",
+    "slug": "course-2302338-07-larmor-frequency",
+    "title": {
+      "en": "07: Larmor frequency",
+      "th": "07: Larmor frequency"
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "ZdkTnkOYjCQ",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-08-the-chemical-shift",
+    "slug": "course-2302338-08-the-chemical-shift",
+    "title": {
+      "en": "08: The chemical shift",
+      "th": "08: The chemical shift"
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "Wg_lcgsiGEE",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-09-spin-spin-coupling-1-non-interacting-spins",
+    "slug": "course-2302338-09-spin-spin-coupling-1-non-interacting-spins",
+    "title": {
+      "en": "09: Spin-spin coupling-1: non-interacting spins ",
+      "th": "09: Spin-spin coupling-1: non-interacting spins "
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "FRPGh3yJ2Pc",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-10-spin-spin-coupling-2-transition-energy-of-non-interacting-spins",
+    "slug": "course-2302338-10-spin-spin-coupling-2-transition-energy-of-non-interacting-spins",
+    "title": {
+      "en": "10: Spin-spin coupling-2: transition energy of non-interacting spins ",
+      "th": "10: Spin-spin coupling-2: transition energy of non-interacting spins "
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "nsUA59z3Ld4",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302338-11-spin-spin-coupling-3-interacting-spins",
+    "slug": "course-2302338-11-spin-spin-coupling-3-interacting-spins",
+    "title": {
+      "en": "11: Spin-spin coupling-3: Interacting spins",
+      "th": "11: Spin-spin coupling-3: Interacting spins"
+    },
+    "summary": {
+      "en": "NMR",
+      "th": "NMR"
+    },
+    "youtubeId": "CjFD-L7cjg8",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302338"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302338"
+    ]
+  },
+  {
+    "id": "course-2302237-thermodynamic-of-mixing-of-ideal-solution",
+    "slug": "course-2302237-thermodynamic-of-mixing-of-ideal-solution",
+    "title": {
+      "en": "Thermodynamic of mixing of ideal solution",
+      "th": "Thermodynamic of mixing of ideal solution"
+    },
+    "summary": {
+      "en": "the properties of solution-1",
+      "th": "the properties of solution-1"
+    },
+    "youtubeId": "-YAJb__gpf8",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-raoult-s-law-and-henry-s-law",
+    "slug": "course-2302237-raoult-s-law-and-henry-s-law",
+    "title": {
+      "en": "Raoult's law and Henry's law",
+      "th": "Raoult's law and Henry's law"
+    },
+    "summary": {
+      "en": "the properties of solution-2",
+      "th": "the properties of solution-2"
+    },
+    "youtubeId": "bNPeV4DiXZI",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-thermodynamic-of-mixing-of-real-solutions",
+    "slug": "course-2302237-thermodynamic-of-mixing-of-real-solutions",
+    "title": {
+      "en": "Thermodynamic of mixing of real solutions",
+      "th": "Thermodynamic of mixing of real solutions"
+    },
+    "summary": {
+      "en": "the properties of solution-3",
+      "th": "the properties of solution-3"
+    },
+    "youtubeId": "KdTdc6ZdJgQ",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-colligative-properties-of-solutions",
+    "slug": "course-2302237-colligative-properties-of-solutions",
+    "title": {
+      "en": "Colligative Properties of Solutions",
+      "th": "Colligative Properties of Solutions"
+    },
+    "summary": {
+      "en": "the properties of solution-4",
+      "th": "the properties of solution-4"
+    },
+    "youtubeId": "RbR2ukcsstg",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-freezing-point-depression",
+    "slug": "course-2302237-freezing-point-depression",
+    "title": {
+      "en": "Freezing Point Depression",
+      "th": "Freezing Point Depression"
+    },
+    "summary": {
+      "en": "the properties of solution-5",
+      "th": "the properties of solution-5"
+    },
+    "youtubeId": "tSiHSxn11wA",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-boiling-point-elevation",
+    "slug": "course-2302237-boiling-point-elevation",
+    "title": {
+      "en": "Boiling Point Elevation",
+      "th": "Boiling Point Elevation"
+    },
+    "summary": {
+      "en": "the properties of solution-6",
+      "th": "the properties of solution-6"
+    },
+    "youtubeId": "3bytI5Q5-GE",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-osmotic-pressure",
+    "slug": "course-2302237-osmotic-pressure",
+    "title": {
+      "en": "Osmotic Pressure",
+      "th": "Osmotic Pressure"
+    },
+    "summary": {
+      "en": "the properties of solution-7",
+      "th": "the properties of solution-7"
+    },
+    "youtubeId": "TeDcziiH2dU",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-activity-and-activity-coefficient",
+    "slug": "course-2302237-activity-and-activity-coefficient",
+    "title": {
+      "en": "Activity and Activity Coefficient",
+      "th": "Activity and Activity Coefficient"
+    },
+    "summary": {
+      "en": "the properties of solution-8",
+      "th": "the properties of solution-8"
+    },
+    "youtubeId": "KmkA7VVUHgU",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-the-chemical-potential-of-ions-in-solutions",
+    "slug": "course-2302237-the-chemical-potential-of-ions-in-solutions",
+    "title": {
+      "en": "The chemical potential of ions in solutions",
+      "th": "The chemical potential of ions in solutions"
+    },
+    "summary": {
+      "en": "the properties of solution-9",
+      "th": "the properties of solution-9"
+    },
+    "youtubeId": "D4h2P1ylRV8",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-various-standard-terms-of-activities-of-solutions",
+    "slug": "course-2302237-various-standard-terms-of-activities-of-solutions",
+    "title": {
+      "en": "Various standard terms of activities of solutions",
+      "th": "Various standard terms of activities of solutions"
+    },
+    "summary": {
+      "en": "the properties of solution-10",
+      "th": "the properties of solution-10"
+    },
+    "youtubeId": "wTKSDCuTeH0",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-formulae-of-mean-activity-coefficient-for-mpxq-solutions",
+    "slug": "course-2302237-formulae-of-mean-activity-coefficient-for-mpxq-solutions",
+    "title": {
+      "en": "Formulae of mean activity coefficient for MpXq solutions",
+      "th": "Formulae of mean activity coefficient for MpXq solutions"
+    },
+    "summary": {
+      "en": "the properties of solution-11",
+      "th": "the properties of solution-11"
+    },
+    "youtubeId": "AQMoiEOgDxQ",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-the-debye-hu-ckel-limiting-law",
+    "slug": "course-2302237-the-debye-hu-ckel-limiting-law",
+    "title": {
+      "en": "The Debye-Hückel Limiting Law",
+      "th": "The Debye-Hückel Limiting Law"
+    },
+    "summary": {
+      "en": "the properties of solution-12",
+      "th": "the properties of solution-12"
+    },
+    "youtubeId": "PKWAXS6rO_4",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-deviation-of-the-debye-hu-ckel-limiting-law",
+    "slug": "course-2302237-deviation-of-the-debye-hu-ckel-limiting-law",
+    "title": {
+      "en": "Deviation of the Debye-Hückel limiting law",
+      "th": "Deviation of the Debye-Hückel limiting law"
+    },
+    "summary": {
+      "en": "the properties of solution-13",
+      "th": "the properties of solution-13"
+    },
+    "youtubeId": "yFgsjtQwk_g",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-equilibrium-electrochemistry",
+    "slug": "course-2302237-equilibrium-electrochemistry",
+    "title": {
+      "en": "Equilibrium electrochemistry ",
+      "th": "Equilibrium electrochemistry "
+    },
+    "summary": {
+      "en": "Electrochemistry-1",
+      "th": "Electrochemistry-1"
+    },
+    "youtubeId": "QH1h52hLBVM",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-relationship-between-electrochemical-reaction-and-gibbs-free-energy",
+    "slug": "course-2302237-relationship-between-electrochemical-reaction-and-gibbs-free-energy",
+    "title": {
+      "en": "Relationship between electrochemical reaction and Gibbs free energy",
+      "th": "Relationship between electrochemical reaction and Gibbs free energy"
+    },
+    "summary": {
+      "en": "Electrochemistry-2",
+      "th": "Electrochemistry-2"
+    },
+    "youtubeId": "AjTZ-VULfpc",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-the-connection-nernst-equation-cell-potential-free-energy-activity-coefficient-and-equilibrium-constant",
+    "slug": "course-2302237-the-connection-nernst-equation-cell-potential-free-energy-activity-coefficient-and-equilibrium-constant",
+    "title": {
+      "en": "The connection: Nernst Equation, cell potential, free energy, activity coefficient and equilibrium constant",
+      "th": "The connection: Nernst Equation, cell potential, free energy, activity coefficient and equilibrium constant"
+    },
+    "summary": {
+      "en": "Electrochemistry-3",
+      "th": "Electrochemistry-3"
+    },
+    "youtubeId": "-tD7NI0MVh0",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-determining-standard-reference-potential",
+    "slug": "course-2302237-determining-standard-reference-potential",
+    "title": {
+      "en": "Determining standard reference potential ",
+      "th": "Determining standard reference potential "
+    },
+    "summary": {
+      "en": "Electrochemistry-4",
+      "th": "Electrochemistry-4"
+    },
+    "youtubeId": "G_b3gEcm0Zs",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-determine-standard-cell-potential",
+    "slug": "course-2302237-determine-standard-cell-potential",
+    "title": {
+      "en": "Determine standard cell potential",
+      "th": "Determine standard cell potential"
+    },
+    "summary": {
+      "en": "Electrochemistry-5",
+      "th": "Electrochemistry-5"
+    },
+    "youtubeId": "SPdRoHGbhJE",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-applications-determination-of-activity-coefficient-equilibrium-constant-and-thermodynamic-functions",
+    "slug": "course-2302237-applications-determination-of-activity-coefficient-equilibrium-constant-and-thermodynamic-functions",
+    "title": {
+      "en": "Applications: Determination of activity coefficient, equilibrium constant and thermodynamic functions ",
+      "th": "Applications: Determination of activity coefficient, equilibrium constant and thermodynamic functions "
+    },
+    "summary": {
+      "en": "Electrochemistry-6",
+      "th": "Electrochemistry-6"
+    },
+    "youtubeId": "4J74qa-M17o",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-reaction-rate-instantaneous-rate-stoichiometry",
+    "slug": "course-2302237-reaction-rate-instantaneous-rate-stoichiometry",
+    "title": {
+      "en": "Reaction rate, Instantaneous rate & Stoichiometry",
+      "th": "Reaction rate, Instantaneous rate & Stoichiometry"
+    },
+    "summary": {
+      "en": "Rate of Reactions-1",
+      "th": "Rate of Reactions-1"
+    },
+    "youtubeId": "_VF-lm3qG-Q",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-rate-law-rate-constant",
+    "slug": "course-2302237-rate-law-rate-constant",
+    "title": {
+      "en": "Rate Law & Rate Constant",
+      "th": "Rate Law & Rate Constant"
+    },
+    "summary": {
+      "en": "Rate of Reactions-2",
+      "th": "Rate of Reactions-2"
+    },
+    "youtubeId": "fWCiNUUrnmc",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-determination-of-rate-law-1-isolation-method",
+    "slug": "course-2302237-determination-of-rate-law-1-isolation-method",
+    "title": {
+      "en": "Determination of Rate Law-1 Isolation Method",
+      "th": "Determination of Rate Law-1 Isolation Method"
+    },
+    "summary": {
+      "en": "Rate of Reactions-3",
+      "th": "Rate of Reactions-3"
+    },
+    "youtubeId": "0o4pFA5CW68",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-determination-of-rate-law-2-integrated-rate-law",
+    "slug": "course-2302237-determination-of-rate-law-2-integrated-rate-law",
+    "title": {
+      "en": "Determination of Rate Law-2 : Integrated Rate Law",
+      "th": "Determination of Rate Law-2 : Integrated Rate Law"
+    },
+    "summary": {
+      "en": "Rate of Reactions-4",
+      "th": "Rate of Reactions-4"
+    },
+    "youtubeId": "xh4p7EL1hmo",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-integrated-rate-law-exercises",
+    "slug": "course-2302237-integrated-rate-law-exercises",
+    "title": {
+      "en": "Integrated Rate Law: Exercises",
+      "th": "Integrated Rate Law: Exercises"
+    },
+    "summary": {
+      "en": "Rate of Reactions-5",
+      "th": "Rate of Reactions-5"
+    },
+    "youtubeId": "e_sHNmFTkNo",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-time-constant-second-order-integrated-rate-law",
+    "slug": "course-2302237-time-constant-second-order-integrated-rate-law",
+    "title": {
+      "en": "Time Constant & Second-Order Integrated Rate Law",
+      "th": "Time Constant & Second-Order Integrated Rate Law"
+    },
+    "summary": {
+      "en": "Rate of Reactions-6",
+      "th": "Rate of Reactions-6"
+    },
+    "youtubeId": "qPAFR0_m6JI",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-relaxation-method-1",
+    "slug": "course-2302237-relaxation-method-1",
+    "title": {
+      "en": "Relaxation method-1",
+      "th": "Relaxation method-1"
+    },
+    "summary": {
+      "en": "Rate of Reactions-7",
+      "th": "Rate of Reactions-7"
+    },
+    "youtubeId": "eiyKkdyg98Y",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-relaxation-method-2",
+    "slug": "course-2302237-relaxation-method-2",
+    "title": {
+      "en": "Relaxation method-2",
+      "th": "Relaxation method-2"
+    },
+    "summary": {
+      "en": "Rate of Reactions-8",
+      "th": "Rate of Reactions-8"
+    },
+    "youtubeId": "zxPhhndOxfk",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-relaxation-method-3",
+    "slug": "course-2302237-relaxation-method-3",
+    "title": {
+      "en": "Relaxation method-3",
+      "th": "Relaxation method-3"
+    },
+    "summary": {
+      "en": "Rate of Reactions-9",
+      "th": "Rate of Reactions-9"
+    },
+    "youtubeId": "irzDoPoDIhQ",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-the-arrhenius-equation",
+    "slug": "course-2302237-the-arrhenius-equation",
+    "title": {
+      "en": "The Arrhenius Equation",
+      "th": "The Arrhenius Equation"
+    },
+    "summary": {
+      "en": "Rate of Reactions-10",
+      "th": "Rate of Reactions-10"
+    },
+    "youtubeId": "-pNfWBuBGkI",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-elementary-reaction-1",
+    "slug": "course-2302237-elementary-reaction-1",
+    "title": {
+      "en": "Elementary Reaction-1",
+      "th": "Elementary Reaction-1"
+    },
+    "summary": {
+      "en": "Rate of Reactions-11",
+      "th": "Rate of Reactions-11"
+    },
+    "youtubeId": "nF9Xy-sdoxY",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-elementary-reaction-2",
+    "slug": "course-2302237-elementary-reaction-2",
+    "title": {
+      "en": "Elementary Reaction-2",
+      "th": "Elementary Reaction-2"
+    },
+    "summary": {
+      "en": "Rate of Reactions-12",
+      "th": "Rate of Reactions-12"
+    },
+    "youtubeId": "LuI8KMuUk1U",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-consecutive-reaction",
+    "slug": "course-2302237-consecutive-reaction",
+    "title": {
+      "en": "Consecutive Reaction",
+      "th": "Consecutive Reaction"
+    },
+    "summary": {
+      "en": "Rate of Reactions-13",
+      "th": "Rate of Reactions-13"
+    },
+    "youtubeId": "w0ZwBdT9xv4",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-concentration-of-intermediate",
+    "slug": "course-2302237-concentration-of-intermediate",
+    "title": {
+      "en": "Concentration of Intermediate",
+      "th": "Concentration of Intermediate"
+    },
+    "summary": {
+      "en": "Rate of Reactions-14",
+      "th": "Rate of Reactions-14"
+    },
+    "youtubeId": "pm7cTBItfG8",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-steady-state-approximation-1",
+    "slug": "course-2302237-steady-state-approximation-1",
+    "title": {
+      "en": "Steady-state Approximation-1",
+      "th": "Steady-state Approximation-1"
+    },
+    "summary": {
+      "en": "Rate of Reactions-15",
+      "th": "Rate of Reactions-15"
+    },
+    "youtubeId": "QHpvDzFP4MU",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-steady-state-approximation-2-exercise",
+    "slug": "course-2302237-steady-state-approximation-2-exercise",
+    "title": {
+      "en": "Steady-state Approximation-2: Exercise",
+      "th": "Steady-state Approximation-2: Exercise"
+    },
+    "summary": {
+      "en": "Rate of Reactions-16",
+      "th": "Rate of Reactions-16"
+    },
+    "youtubeId": "ZVau0fOHXxo",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-derivation-of-rate-determining-step",
+    "slug": "course-2302237-derivation-of-rate-determining-step",
+    "title": {
+      "en": "Derivation of Rate Determining Step",
+      "th": "Derivation of Rate Determining Step"
+    },
+    "summary": {
+      "en": "Rate of Reactions-17",
+      "th": "Rate of Reactions-17"
+    },
+    "youtubeId": "l1Gn-fdsbbQ",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-pre-equilibria-composite-rate-constant-vs-effective-activation-energy",
+    "slug": "course-2302237-pre-equilibria-composite-rate-constant-vs-effective-activation-energy",
+    "title": {
+      "en": "Pre-equilibria: composite rate constant vs effective activation energy",
+      "th": "Pre-equilibria: composite rate constant vs effective activation energy"
+    },
+    "summary": {
+      "en": "Rate of Reactions-18",
+      "th": "Rate of Reactions-18"
+    },
+    "youtubeId": "DBBisNeZWpg",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-kinetic-vs-thermodynamic-control-product",
+    "slug": "course-2302237-kinetic-vs-thermodynamic-control-product",
+    "title": {
+      "en": "Kinetic vs Thermodynamic Control Product",
+      "th": "Kinetic vs Thermodynamic Control Product"
+    },
+    "summary": {
+      "en": "Rate of Reactions-19",
+      "th": "Rate of Reactions-19"
+    },
+    "youtubeId": "Neju6nkFv10",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-collision-theory",
+    "slug": "course-2302237-collision-theory",
+    "title": {
+      "en": "Collision Theory",
+      "th": "Collision Theory"
+    },
+    "summary": {
+      "en": "Reaction Dynamics-01",
+      "th": "Reaction Dynamics-01"
+    },
+    "youtubeId": "O4SHd2Tarw0",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-diffusion-control-vs-activation-control-kinetics",
+    "slug": "course-2302237-diffusion-control-vs-activation-control-kinetics",
+    "title": {
+      "en": "Diffusion Control vs Activation Control Kinetics",
+      "th": "Diffusion Control vs Activation Control Kinetics"
+    },
+    "summary": {
+      "en": "Reaction Dynamics-02",
+      "th": "Reaction Dynamics-02"
+    },
+    "youtubeId": "H3aGklmiZkI",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-exercise-diffusion-control-reaction",
+    "slug": "course-2302237-exercise-diffusion-control-reaction",
+    "title": {
+      "en": "Exercise (Diffusion control reaction)",
+      "th": "Exercise (Diffusion control reaction)"
+    },
+    "summary": {
+      "en": "Reaction Dynamics-03",
+      "th": "Reaction Dynamics-03"
+    },
+    "youtubeId": "BJGECffez-o",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-transition-state-theory",
+    "slug": "course-2302237-transition-state-theory",
+    "title": {
+      "en": "Transition State Theory",
+      "th": "Transition State Theory"
+    },
+    "summary": {
+      "en": "Reaction Dynamics-04",
+      "th": "Reaction Dynamics-04"
+    },
+    "youtubeId": "sEyfmk_E_E0",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-exercise-transition-state-theory",
+    "slug": "course-2302237-exercise-transition-state-theory",
+    "title": {
+      "en": "Exercise (Transition State Theory)",
+      "th": "Exercise (Transition State Theory)"
+    },
+    "summary": {
+      "en": "Reaction Dynamics-05",
+      "th": "Reaction Dynamics-05"
+    },
+    "youtubeId": "tvw9O1BPpng",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-kinetic-salt-effect",
+    "slug": "course-2302237-kinetic-salt-effect",
+    "title": {
+      "en": "Kinetic Salt Effect",
+      "th": "Kinetic Salt Effect"
+    },
+    "summary": {
+      "en": "Reaction Dynamics-06",
+      "th": "Reaction Dynamics-06"
+    },
+    "youtubeId": "QOgHI2YkhcU",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-catalyst",
+    "slug": "course-2302237-catalyst",
+    "title": {
+      "en": "Catalyst",
+      "th": "Catalyst"
+    },
+    "summary": {
+      "en": "Enzyme Kinetics-01",
+      "th": "Enzyme Kinetics-01"
+    },
+    "youtubeId": "bNXggDf_9M0",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-enzyme",
+    "slug": "course-2302237-enzyme",
+    "title": {
+      "en": "Enzyme",
+      "th": "Enzyme"
+    },
+    "summary": {
+      "en": "Enzyme Kinetics-02",
+      "th": "Enzyme Kinetics-02"
+    },
+    "youtubeId": "hqCVqVQS8Uk",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-michaelis-menten-enzyme-kinetics",
+    "slug": "course-2302237-michaelis-menten-enzyme-kinetics",
+    "title": {
+      "en": "Michaelis-Menten Enzyme Kinetics",
+      "th": "Michaelis-Menten Enzyme Kinetics"
+    },
+    "summary": {
+      "en": "Enzyme Kinetics-03",
+      "th": "Enzyme Kinetics-03"
+    },
+    "youtubeId": "Y3ZM4qReo6M",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-analysis-of-the-michaelis-menten-equation",
+    "slug": "course-2302237-analysis-of-the-michaelis-menten-equation",
+    "title": {
+      "en": "Analysis of the Michaelis-Menten Equation",
+      "th": "Analysis of the Michaelis-Menten Equation"
+    },
+    "summary": {
+      "en": "Enzyme Kinetics-04",
+      "th": "Enzyme Kinetics-04"
+    },
+    "youtubeId": "698_3t21zMY",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-derivation-of-line-weaver-burk-plot",
+    "slug": "course-2302237-derivation-of-line-weaver-burk-plot",
+    "title": {
+      "en": "Derivation of Line-Weaver Burk Plot",
+      "th": "Derivation of Line-Weaver Burk Plot"
+    },
+    "summary": {
+      "en": "Enzyme Kinetics-05",
+      "th": "Enzyme Kinetics-05"
+    },
+    "youtubeId": "yXKAmqFURn8",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-turn-over-number-catalytic-efficiency",
+    "slug": "course-2302237-turn-over-number-catalytic-efficiency",
+    "title": {
+      "en": "Turn Over Number & Catalytic Efficiency",
+      "th": "Turn Over Number & Catalytic Efficiency"
+    },
+    "summary": {
+      "en": "Enzyme Kinetics-06",
+      "th": "Enzyme Kinetics-06"
+    },
+    "youtubeId": "BlSYH24EsYI",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-enzyme-inhibition-derivation-kinetic-interpretation",
+    "slug": "course-2302237-enzyme-inhibition-derivation-kinetic-interpretation",
+    "title": {
+      "en": "Enzyme Inhibition: Derivation & Kinetic Interpretation",
+      "th": "Enzyme Inhibition: Derivation & Kinetic Interpretation"
+    },
+    "summary": {
+      "en": "Enzyme Kinetics-07",
+      "th": "Enzyme Kinetics-07"
+    },
+    "youtubeId": "SV4tRA3l1AU",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-kinetics-of-competitive-uncompetitive-non-competitive-inhibitions",
+    "slug": "course-2302237-kinetics-of-competitive-uncompetitive-non-competitive-inhibitions",
+    "title": {
+      "en": "Kinetics of Competitive, Uncompetitive & Non-competitive Inhibitions",
+      "th": "Kinetics of Competitive, Uncompetitive & Non-competitive Inhibitions"
+    },
+    "summary": {
+      "en": "Enzyme Kinetics-08",
+      "th": "Enzyme Kinetics-08"
+    },
+    "youtubeId": "HjMI7NfO8Ek",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302237-determination-of-inhibition-constant-exercise",
+    "slug": "course-2302237-determination-of-inhibition-constant-exercise",
+    "title": {
+      "en": "Determination of inhibition constant (Exercise)",
+      "th": "Determination of inhibition constant (Exercise)"
+    },
+    "summary": {
+      "en": "Enzyme Kinetics-09",
+      "th": "Enzyme Kinetics-09"
+    },
+    "youtubeId": "CRAfwRqc4js",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302237",
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302237"
+    ]
+  },
+  {
+    "id": "course-2302236-phase",
+    "slug": "course-2302236-phase",
+    "title": {
+      "en": "Phase",
+      "th": "Phase"
+    },
+    "summary": {
+      "en": "Physical Equilibria-01",
+      "th": "Physical Equilibria-01"
+    },
+    "youtubeId": "NI5NkKb7API",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302236",
+      "week-7"
+    ]
+  },
+  {
+    "id": "course-2302236-phase-diagram",
+    "slug": "course-2302236-phase-diagram",
+    "title": {
+      "en": "Phase Diagram",
+      "th": "Phase Diagram"
+    },
+    "summary": {
+      "en": "Physical Equilibria-02",
+      "th": "Physical Equilibria-02"
+    },
+    "youtubeId": "SNiRkY6qLDY",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302236",
+      "week-7"
+    ]
+  },
+  {
+    "id": "course-2302236-phase-rule",
+    "slug": "course-2302236-phase-rule",
+    "title": {
+      "en": "Phase Rule",
+      "th": "Phase Rule"
+    },
+    "summary": {
+      "en": "Physical Equilibria-03",
+      "th": "Physical Equilibria-03"
+    },
+    "youtubeId": "ZGFB97neqOE",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302236",
+      "week-7"
+    ]
+  },
+  {
+    "id": "course-2302236-chemical-potential-thermodynamic-relation-of-phases",
+    "slug": "course-2302236-chemical-potential-thermodynamic-relation-of-phases",
+    "title": {
+      "en": "Chemical Potential & Thermodynamic Relation of Phases",
+      "th": "Chemical Potential & Thermodynamic Relation of Phases"
+    },
+    "summary": {
+      "en": "Physical Equilibria-04",
+      "th": "Physical Equilibria-04"
+    },
+    "youtubeId": "a5V4GWKwzkw",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302236",
+      "week-7"
+    ]
+  },
+  {
+    "id": "course-2302236-the-clapeyron-equation",
+    "slug": "course-2302236-the-clapeyron-equation",
+    "title": {
+      "en": "The Clapeyron equation",
+      "th": "The Clapeyron equation"
+    },
+    "summary": {
+      "en": "Physical Equilibria-05",
+      "th": "Physical Equilibria-05"
+    },
+    "youtubeId": "kL6rfcqpYuQ",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302236",
+      "week-7"
+    ]
+  },
+  {
+    "id": "course-2302236-thermodynamics-of-phase-transition",
+    "slug": "course-2302236-thermodynamics-of-phase-transition",
+    "title": {
+      "en": "Thermodynamics of Phase Transition",
+      "th": "Thermodynamics of Phase Transition"
+    },
+    "summary": {
+      "en": "Physical Equilibria-06",
+      "th": "Physical Equilibria-06"
+    },
+    "youtubeId": "rnSrsy_bW9k",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302236"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302236",
+      "week-7"
+    ]
+  },
+  {
+    "id": "course-2302636-biomol-model-03-unix-commands-part1",
+    "slug": "course-2302636-biomol-model-03-unix-commands-part1",
+    "title": {
+      "en": "Biomol model: 03 unix commands part1",
+      "th": "Biomol model: 03 unix commands part1"
+    },
+    "summary": {
+      "en": "Biomol model: 03 unix commands part1",
+      "th": "Biomol model: 03 unix commands part1"
+    },
+    "youtubeId": "k1sW-VNnIH8",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302636"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302636"
+    ]
+  },
+  {
+    "id": "course-2302636-biomol-model-03-unix-commands-part2",
+    "slug": "course-2302636-biomol-model-03-unix-commands-part2",
+    "title": {
+      "en": "Biomol model: 03 unix commands part2",
+      "th": "Biomol model: 03 unix commands part2"
+    },
+    "summary": {
+      "en": "Biomol model: 03 unix commands part2",
+      "th": "Biomol model: 03 unix commands part2"
+    },
+    "youtubeId": "fefrrmnRXAU",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302636"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302636"
+    ]
+  },
+  {
+    "id": "course-2302636-installation-and-basic-unix-commands",
+    "slug": "course-2302636-installation-and-basic-unix-commands",
+    "title": {
+      "en": "Installation and Basic Unix Commands ",
+      "th": "Installation and Basic Unix Commands "
+    },
+    "summary": {
+      "en": "Installation and Basic Unix Commands ",
+      "th": "Installation and Basic Unix Commands "
+    },
+    "youtubeId": "srN0vnOuJZw",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302636"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302636"
+    ]
+  },
+  {
+    "id": "course-2302636-basic-unix-commands-https-youtu-be-j1xziiiq1sq",
+    "slug": "course-2302636-basic-unix-commands-https-youtu-be-j1xziiiq1sq",
+    "title": {
+      "en": "Basic Unix Commands https://youtu.be/J1xziiIQ1sQ",
+      "th": "Basic Unix Commands https://youtu.be/J1xziiIQ1sQ"
+    },
+    "summary": {
+      "en": "Basic Unix Commands https://youtu.be/J1xziiIQ1sQ",
+      "th": "Basic Unix Commands https://youtu.be/J1xziiIQ1sQ"
+    },
+    "youtubeId": "J1xziiIQ1sQ",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302636"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302636"
+    ]
+  },
+  {
+    "id": "course-2302636-basic-unix-commands-https-youtu-be-j1xziiiq1sq-2",
+    "slug": "course-2302636-basic-unix-commands-https-youtu-be-j1xziiiq1sq-2",
+    "title": {
+      "en": "Basic Unix Commands https://youtu.be/J1xziiIQ1sQ",
+      "th": "Basic Unix Commands https://youtu.be/J1xziiIQ1sQ"
+    },
+    "summary": {
+      "en": "Basic Unix Commands https://youtu.be/J1xziiIQ1sQ",
+      "th": "Basic Unix Commands https://youtu.be/J1xziiIQ1sQ"
+    },
+    "youtubeId": "vSpJGuK1DKY",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302636"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302636"
+    ]
+  },
+  {
+    "id": "course-2302636-vi-text-editor-02",
+    "slug": "course-2302636-vi-text-editor-02",
+    "title": {
+      "en": "vi Text Editor 02",
+      "th": "vi Text Editor 02"
+    },
+    "summary": {
+      "en": "vi Text Editor 02",
+      "th": "vi Text Editor 02"
+    },
+    "youtubeId": "OSaW1CTTsXA",
+    "language": "mixed",
+    "courseIds": [
+      "course-2302636"
+    ],
+    "status": "published",
+    "featured": false,
+    "tags": [
+      "2302636"
+    ]
+  }
+]

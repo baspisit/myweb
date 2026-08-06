@@ -1,0 +1,9 @@
+export { default as courses } from '@/data/courses.json';
+export { default as documentation } from '@/data/documentation.json';
+export { default as downloads } from '@/data/downloads.json';
+export { default as news } from '@/data/news.json';
+export { default as people } from '@/data/people.json';
+export { default as publications } from '@/data/publications/publications.json';
+export { default as research } from '@/data/research.json';
+export { default as software } from '@/data/software.json';
+export { default as videos } from '@/data/videos.json';

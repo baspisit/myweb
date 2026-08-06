@@ -1,0 +1,277 @@
+{
+  "courseCode": "2302237",
+  "courseTitle": "",
+  "lectureCount": 54,
+  "lectures": [
+    {
+      "chapter": "the properties of solution-1",
+      "topic": "Thermodynamic of mixing of ideal solution",
+      "youtube": "https://youtu.be/-YAJb__gpf8"
+    },
+    {
+      "chapter": "the properties of solution-2",
+      "topic": "Raoult's law and Henry's law",
+      "youtube": "https://youtu.be/bNPeV4DiXZI"
+    },
+    {
+      "chapter": "the properties of solution-3",
+      "topic": "Thermodynamic of mixing of real solutions",
+      "youtube": "https://youtu.be/KdTdc6ZdJgQ"
+    },
+    {
+      "chapter": "the properties of solution-4",
+      "topic": "Colligative Properties of Solutions",
+      "youtube": "https://youtu.be/RbR2ukcsstg"
+    },
+    {
+      "chapter": "the properties of solution-5",
+      "topic": "Freezing Point Depression",
+      "youtube": "https://youtu.be/tSiHSxn11wA"
+    },
+    {
+      "chapter": "the properties of solution-6",
+      "topic": "Boiling Point Elevation",
+      "youtube": "https://youtu.be/3bytI5Q5-GE"
+    },
+    {
+      "chapter": "the properties of solution-7",
+      "topic": "Osmotic Pressure",
+      "youtube": "https://youtu.be/TeDcziiH2dU"
+    },
+    {
+      "chapter": "the properties of solution-8",
+      "topic": "Activity and Activity Coefficient",
+      "youtube": "https://youtu.be/KmkA7VVUHgU"
+    },
+    {
+      "chapter": "the properties of solution-9",
+      "topic": "The chemical potential of ions in solutions",
+      "youtube": "https://youtu.be/D4h2P1ylRV8"
+    },
+    {
+      "chapter": "the properties of solution-10",
+      "topic": "Various standard terms of activities of solutions",
+      "youtube": "https://youtu.be/wTKSDCuTeH0"
+    },
+    {
+      "chapter": "",
+      "topic": "The Biological Standard State",
+      "youtube": "https://youtu.be/wTKSDCuTeH0"
+    },
+    {
+      "chapter": "the properties of solution-11",
+      "topic": "Formulae of mean activity coefficient for MpXq solutions",
+      "youtube": "https://youtu.be/AQMoiEOgDxQ"
+    },
+    {
+      "chapter": "the properties of solution-12",
+      "topic": "The Debye-Hückel Limiting Law",
+      "youtube": "https://youtu.be/PKWAXS6rO_4"
+    },
+    {
+      "chapter": "the properties of solution-13",
+      "topic": "Deviation of the Debye-Hückel limiting law",
+      "youtube": "https://youtu.be/yFgsjtQwk_g"
+    },
+    {
+      "chapter": "Electrochemistry-1",
+      "topic": "Equilibrium electrochemistry ",
+      "youtube": "https://youtu.be/QH1h52hLBVM"
+    },
+    {
+      "chapter": "Electrochemistry-2",
+      "topic": "Relationship between electrochemical reaction and Gibbs free energy",
+      "youtube": "https://youtu.be/AjTZ-VULfpc"
+    },
+    {
+      "chapter": "Electrochemistry-3",
+      "topic": "The connection: Nernst Equation, cell potential, free energy, activity coefficient and equilibrium constant",
+      "youtube": "https://youtu.be/-tD7NI0MVh0"
+    },
+    {
+      "chapter": "Electrochemistry-4",
+      "topic": "Determining standard reference potential ",
+      "youtube": "https://youtu.be/G_b3gEcm0Zs"
+    },
+    {
+      "chapter": "Electrochemistry-5",
+      "topic": "Determine standard cell potential",
+      "youtube": "https://youtu.be/SPdRoHGbhJE"
+    },
+    {
+      "chapter": "Electrochemistry-6",
+      "topic": "Applications: Determination of activity coefficient, equilibrium constant and thermodynamic functions ",
+      "youtube": "https://youtu.be/4J74qa-M17o"
+    },
+    {
+      "chapter": "Rate of Reactions-1",
+      "topic": "Reaction rate, Instantaneous rate & Stoichiometry",
+      "youtube": "https://youtu.be/_VF-lm3qG-Q"
+    },
+    {
+      "chapter": "Rate of Reactions-2",
+      "topic": "Rate Law & Rate Constant",
+      "youtube": "https://youtu.be/fWCiNUUrnmc"
+    },
+    {
+      "chapter": "Rate of Reactions-3",
+      "topic": "Determination of Rate Law-1 Isolation Method",
+      "youtube": "https://youtu.be/0o4pFA5CW68"
+    },
+    {
+      "chapter": "Rate of Reactions-4",
+      "topic": "Determination of Rate Law-2 : Integrated Rate Law",
+      "youtube": "https://youtu.be/xh4p7EL1hmo"
+    },
+    {
+      "chapter": "Rate of Reactions-5",
+      "topic": "Integrated Rate Law: Exercises",
+      "youtube": "https://youtu.be/e_sHNmFTkNo"
+    },
+    {
+      "chapter": "Rate of Reactions-6",
+      "topic": "Time Constant & Second-Order Integrated Rate Law",
+      "youtube": "https://youtu.be/qPAFR0_m6JI"
+    },
+    {
+      "chapter": "Rate of Reactions-7",
+      "topic": "Relaxation method-1",
+      "youtube": "https://youtu.be/eiyKkdyg98Y"
+    },
+    {
+      "chapter": "Rate of Reactions-8",
+      "topic": "Relaxation method-2",
+      "youtube": "https://youtu.be/zxPhhndOxfk"
+    },
+    {
+      "chapter": "Rate of Reactions-9",
+      "topic": "Relaxation method-3",
+      "youtube": "https://youtu.be/irzDoPoDIhQ"
+    },
+    {
+      "chapter": "Rate of Reactions-10",
+      "topic": "The Arrhenius Equation",
+      "youtube": "https://youtu.be/-pNfWBuBGkI"
+    },
+    {
+      "chapter": "Rate of Reactions-11",
+      "topic": "Elementary Reaction-1",
+      "youtube": "https://youtu.be/nF9Xy-sdoxY"
+    },
+    {
+      "chapter": "Rate of Reactions-12",
+      "topic": "Elementary Reaction-2",
+      "youtube": "https://youtu.be/LuI8KMuUk1U"
+    },
+    {
+      "chapter": "Rate of Reactions-13",
+      "topic": "Consecutive Reaction",
+      "youtube": "https://youtu.be/w0ZwBdT9xv4"
+    },
+    {
+      "chapter": "Rate of Reactions-14",
+      "topic": "Concentration of Intermediate",
+      "youtube": "https://youtu.be/pm7cTBItfG8"
+    },
+    {
+      "chapter": "Rate of Reactions-15",
+      "topic": "Steady-state Approximation-1",
+      "youtube": "https://youtu.be/QHpvDzFP4MU"
+    },
+    {
+      "chapter": "Rate of Reactions-16",
+      "topic": "Steady-state Approximation-2: Exercise",
+      "youtube": "https://youtu.be/ZVau0fOHXxo"
+    },
+    {
+      "chapter": "Rate of Reactions-17",
+      "topic": "Derivation of Rate Determining Step",
+      "youtube": "https://youtu.be/l1Gn-fdsbbQ"
+    },
+    {
+      "chapter": "Rate of Reactions-18",
+      "topic": "Pre-equilibria: composite rate constant vs effective activation energy",
+      "youtube": "https://youtu.be/DBBisNeZWpg"
+    },
+    {
+      "chapter": "Rate of Reactions-19",
+      "topic": "Kinetic vs Thermodynamic Control Product",
+      "youtube": "https://youtu.be/Neju6nkFv10"
+    },
+    {
+      "chapter": "Reaction Dynamics-01",
+      "topic": "Collision Theory",
+      "youtube": "https://youtu.be/O4SHd2Tarw0"
+    },
+    {
+      "chapter": "Reaction Dynamics-02",
+      "topic": "Diffusion Control vs Activation Control Kinetics",
+      "youtube": "https://youtu.be/H3aGklmiZkI"
+    },
+    {
+      "chapter": "Reaction Dynamics-03",
+      "topic": "Exercise (Diffusion control reaction)",
+      "youtube": "https://youtu.be/BJGECffez-o"
+    },
+    {
+      "chapter": "Reaction Dynamics-04",
+      "topic": "Transition State Theory",
+      "youtube": "https://youtu.be/sEyfmk_E_E0"
+    },
+    {
+      "chapter": "Reaction Dynamics-05",
+      "topic": "Exercise (Transition State Theory)",
+      "youtube": "https://youtu.be/tvw9O1BPpng"
+    },
+    {
+      "chapter": "Reaction Dynamics-06",
+      "topic": "Kinetic Salt Effect",
+      "youtube": "https://youtu.be/QOgHI2YkhcU"
+    },
+    {
+      "chapter": "Enzyme Kinetics-01",
+      "topic": "Catalyst",
+      "youtube": "https://youtu.be/bNXggDf_9M0"
+    },
+    {
+      "chapter": "Enzyme Kinetics-02",
+      "topic": "Enzyme",
+      "youtube": "https://youtu.be/hqCVqVQS8Uk"
+    },
+    {
+      "chapter": "Enzyme Kinetics-03",
+      "topic": "Michaelis-Menten Enzyme Kinetics",
+      "youtube": "https://youtu.be/Y3ZM4qReo6M"
+    },
+    {
+      "chapter": "Enzyme Kinetics-04",
+      "topic": "Analysis of the Michaelis-Menten Equation",
+      "youtube": "https://youtu.be/698_3t21zMY"
+    },
+    {
+      "chapter": "Enzyme Kinetics-05",
+      "topic": "Derivation of Line-Weaver Burk Plot",
+      "youtube": "https://youtu.be/yXKAmqFURn8"
+    },
+    {
+      "chapter": "Enzyme Kinetics-06",
+      "topic": "Turn Over Number & Catalytic Efficiency",
+      "youtube": "https://youtu.be/BlSYH24EsYI"
+    },
+    {
+      "chapter": "Enzyme Kinetics-07",
+      "topic": "Enzyme Inhibition: Derivation & Kinetic Interpretation",
+      "youtube": "https://youtu.be/SV4tRA3l1AU"
+    },
+    {
+      "chapter": "Enzyme Kinetics-08",
+      "topic": "Kinetics of Competitive, Uncompetitive & Non-competitive Inhibitions",
+      "youtube": "https://youtu.be/HjMI7NfO8Ek"
+    },
+    {
+      "chapter": "Enzyme Kinetics-09",
+      "topic": "Determination of inhibition constant (Exercise)",
+      "youtube": "https://youtu.be/CRAfwRqc4js"
+    }
+  ]
+}

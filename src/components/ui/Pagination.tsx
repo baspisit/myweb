@@ -1,0 +1,1 @@
+export function Pagination({ page = 1, totalPages = 1 }: { page?: number; totalPages?: number }) { return <nav aria-label="Pagination" className="text-sm text-muted">Page {page} of {totalPages}</nav>; }

@@ -1,0 +1,2 @@
+import { Select } from '@/components/ui/Select';
+export function CategoryFilter({ categories, value, onChange }: { categories: string[]; value: string; onChange: (value: string) => void }) { return <Select aria-label="Category" value={value} onChange={(event) => onChange(event.target.value)}><option value="">All categories</option>{categories.map((category) => <option key={category}>{category}</option>)}</Select>; }

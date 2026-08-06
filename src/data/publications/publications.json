@@ -1,0 +1,720 @@
+[
+  {
+    "id": "conformation-flexibility-and-hydration-of-hyaluronic-acid-by-molecular-dynamics-simulations",
+    "slug": "conformation-flexibility-and-hydration-of-hyaluronic-acid-by-molecular-dynamics-simulations",
+    "title": "Conformation, flexibility and hydration of hyaluronic acid by molecular dynamics simulations",
+    "authors": [
+      {
+        "name": "Taweechat, Panyakorn"
+      },
+      {
+        "name": "Pandey, Ras B"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      }
+    ],
+    "type": "article",
+    "year": 2020,
+    "featured": true,
+    "recent": false,
+    "journal": "Carbohydrate research",
+    "volume": "493",
+    "pages": "108026"
+  },
+  {
+    "id": "structure-of-the-kcsa-channel-intracellular-gate-in-the-open-state",
+    "slug": "structure-of-the-kcsa-channel-intracellular-gate-in-the-open-state",
+    "title": "Structure of the KcsA channel intracellular gate in the open state",
+    "authors": [
+      {
+        "name": "Liu, Yi-Shiuan"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Perozo, Eduardo"
+      }
+    ],
+    "type": "article",
+    "year": 2001,
+    "featured": true,
+    "recent": false,
+    "journal": "Nature structural biology",
+    "volume": "8",
+    "issue": "10",
+    "pages": "883--887"
+  },
+  {
+    "id": "open-channel-structure-of-mscl-and-the-gating-mechanism-of-mechanosensitive-channels",
+    "slug": "open-channel-structure-of-mscl-and-the-gating-mechanism-of-mechanosensitive-channels",
+    "title": "Open channel structure of MscL and the gating mechanism of mechanosensitive channels",
+    "authors": [
+      {
+        "name": "Perozo, Eduardo"
+      },
+      {
+        "name": "Cortes, D Marien"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Kloda, Anna"
+      },
+      {
+        "name": "Martinac, Boris"
+      }
+    ],
+    "type": "article",
+    "year": 2002,
+    "featured": true,
+    "recent": false,
+    "journal": "Nature",
+    "volume": "418",
+    "issue": "6901",
+    "pages": "942--948"
+  },
+  {
+    "id": "molecular-mechanism-of-mg2-dependent-gating-in-cora",
+    "slug": "molecular-mechanism-of-mg2-dependent-gating-in-cora",
+    "title": "Molecular mechanism of Mg2+-dependent gating in CorA",
+    "authors": [
+      {
+        "name": "Dalmas, Olivier"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Bezanilla, Francisco"
+      },
+      {
+        "name": "Perozo, Eduardo"
+      }
+    ],
+    "type": "article",
+    "year": 2014,
+    "featured": true,
+    "recent": false,
+    "journal": "Nature communications",
+    "volume": "5",
+    "issue": "1",
+    "pages": "3590"
+  },
+  {
+    "id": "insights-into-saquinavir-resistance-in-the-g48v-hiv-1-protease-quantum-calculations-and-molecula",
+    "slug": "insights-into-saquinavir-resistance-in-the-g48v-hiv-1-protease-quantum-calculations-and-molecula",
+    "title": "Insights into saquinavir resistance in the G48V HIV-1 protease: quantum calculations and molecular dynamic simulations",
+    "authors": [
+      {
+        "name": "Wittayanarakul, Kitiyaporn"
+      },
+      {
+        "name": "Aruksakunwong, Ornjira"
+      },
+      {
+        "name": "Saen-Oon, Suwipa"
+      },
+      {
+        "name": "Chantratita, Wasun"
+      },
+      {
+        "name": "Parasuk, Vudhichai"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Hannongbua, Supot"
+      }
+    ],
+    "type": "article",
+    "year": 2005,
+    "featured": true,
+    "recent": false,
+    "journal": "Biophysical journal",
+    "volume": "88",
+    "issue": "2",
+    "pages": "867--879"
+  },
+  {
+    "id": "the-activated-state-of-a-sodium-channel-voltage-sensor-in-a-membrane-environment",
+    "slug": "the-activated-state-of-a-sodium-channel-voltage-sensor-in-a-membrane-environment",
+    "title": "The activated state of a sodium channel voltage sensor in a membrane environment",
+    "authors": [
+      {
+        "name": "Chakrapani, Sudha"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Intharathep, Pathumwadee"
+      },
+      {
+        "name": "Roux, Beno{\\^\\i}t"
+      },
+      {
+        "name": "Perozo, Eduardo"
+      }
+    ],
+    "type": "article",
+    "year": 2010,
+    "featured": true,
+    "recent": false,
+    "journal": "Proceedings of the National Academy of Sciences",
+    "volume": "107",
+    "issue": "12",
+    "pages": "5435--5440"
+  },
+  {
+    "id": "structural-basis-of-lipid-driven-conformational-transitions-in-the-kvap-voltage-sensing-domain",
+    "slug": "structural-basis-of-lipid-driven-conformational-transitions-in-the-kvap-voltage-sensing-domain",
+    "title": "Structural basis of lipid-driven conformational transitions in the KvAP voltage-sensing domain",
+    "authors": [
+      {
+        "name": "Li, Qufei"
+      },
+      {
+        "name": "Wanderling, Sherry"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Perozo, Eduardo"
+      }
+    ],
+    "type": "article",
+    "year": 2014,
+    "featured": true,
+    "recent": false,
+    "journal": "Nature structural \\& molecular biology",
+    "volume": "21",
+    "issue": "2",
+    "pages": "160--166"
+  },
+  {
+    "id": "mutation-driven-adaptation-of-ace2-rbd-binding-revealed-by-integrative-molecular-dynamics-analys",
+    "slug": "mutation-driven-adaptation-of-ace2-rbd-binding-revealed-by-integrative-molecular-dynamics-analys",
+    "title": "Mutation-Driven Adaptation of ACE2--RBD Binding Revealed by Integrative Molecular Dynamics Analysis.",
+    "authors": [
+      {
+        "name": "Hoai, Linh Truong"
+      },
+      {
+        "name": "Ilham, Baso"
+      },
+      {
+        "name": "Sompornpisut, Thanakorn"
+      },
+      {
+        "name": "Luthfi, Muhammad"
+      },
+      {
+        "name": "Pandey, Ras B"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      }
+    ],
+    "type": "article",
+    "year": 2026,
+    "featured": false,
+    "recent": true,
+    "journal": "Journal of Molecular Graphics and Modelling",
+    "pages": "109361"
+  },
+  {
+    "id": "physical-implausibility-of-carbohydrate-ligands-in-results-of-deep-learning-based-cofolding-meth",
+    "slug": "physical-implausibility-of-carbohydrate-ligands-in-results-of-deep-learning-based-cofolding-meth",
+    "title": "Physical implausibility of carbohydrate ligands in results of deep learning-based cofolding methods",
+    "authors": [
+      {
+        "name": "Luthfi, Muhammad"
+      },
+      {
+        "name": "Simpkin, Adam J"
+      },
+      {
+        "name": "Elliott, Luc G"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Rigden, Daniel J"
+      }
+    ],
+    "type": "article",
+    "year": 2026,
+    "featured": false,
+    "recent": true,
+    "journal": "Journal of chemical information and modeling",
+    "volume": "66",
+    "issue": "7",
+    "pages": "3456"
+  },
+  {
+    "id": "structural-and-dynamic-perturbations-in-the-ryr1-selectivity-filter-induced-by-ala4893-mutations",
+    "slug": "structural-and-dynamic-perturbations-in-the-ryr1-selectivity-filter-induced-by-ala4893-mutations",
+    "title": "Structural and Dynamic Perturbations in the RyR1 Selectivity Filter Induced by Ala4893 Mutations: Implications for Malignant Hyperthermia and Myopathy",
+    "authors": [
+      {
+        "name": "Taweechat, Panyakorn"
+      },
+      {
+        "name": "Boonamnaj, Panisak"
+      },
+      {
+        "name": "Lerttanakij, Pisit"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      }
+    ],
+    "type": "article",
+    "year": 2026,
+    "featured": false,
+    "recent": true,
+    "journal": "ACS omega",
+    "volume": "11",
+    "issue": "13",
+    "pages": "21321"
+  },
+  {
+    "id": "a-lattice-monte-carlo-model-for-amyloid-fibril-formation",
+    "slug": "a-lattice-monte-carlo-model-for-amyloid-fibril-formation",
+    "title": "A lattice Monte Carlo model for amyloid fibril formation",
+    "authors": [
+      {
+        "name": "Okumura, Hisashi"
+      },
+      {
+        "name": "Hoai, Linh Truong"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Itoh, Satoru G"
+      }
+    ],
+    "type": "article",
+    "year": 2026,
+    "featured": false,
+    "recent": true,
+    "journal": "Biophysics and Physicobiology",
+    "volume": "23",
+    "issue": "2",
+    "pages": "e230015"
+  },
+  {
+    "id": "cooperative-roles-of-w882-and-w996-in-state-dependent-dantrolene-stabilization-within-the-ryr1-p",
+    "slug": "cooperative-roles-of-w882-and-w996-in-state-dependent-dantrolene-stabilization-within-the-ryr1-p",
+    "title": "Cooperative Roles of W882 and W996 in State-Dependent Dantrolene Stabilization within the RyR1 P1 Domain",
+    "authors": [
+      {
+        "name": "Boonamnaj, Panisak"
+      },
+      {
+        "name": "Taweechat, Panyakorn"
+      },
+      {
+        "name": "Lerttanakij, Pisit"
+      },
+      {
+        "name": "Pandey, Ras B"
+      },
+      {
+        "name": "Sams{\\'o}, Montserrat"
+      },
+      {
+        "name": "Schr{\\\"o}der, Christian"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      }
+    ],
+    "type": "article",
+    "year": 2026,
+    "featured": false,
+    "recent": true,
+    "journal": "Journal of Molecular Graphics and Modelling",
+    "pages": "109525"
+  },
+  {
+    "id": "in-silico-evaluation-of-hyaluronic-acid-nanoparticle-stability-and-drug-encapsulation-using-mole",
+    "slug": "in-silico-evaluation-of-hyaluronic-acid-nanoparticle-stability-and-drug-encapsulation-using-mole",
+    "title": "In Silico evaluation of hyaluronic acid nanoparticle stability and drug encapsulation using molecular dynamics simulations",
+    "authors": [
+      {
+        "name": "Lerttanakij, Pisit"
+      },
+      {
+        "name": "Panpala, Palita"
+      },
+      {
+        "name": "Pandey, Ras B"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      }
+    ],
+    "type": "article",
+    "year": 2025,
+    "featured": false,
+    "recent": true,
+    "journal": "Molecular Simulation",
+    "volume": "51",
+    "issue": "1",
+    "pages": "32--45"
+  },
+  {
+    "id": "molecular-determinants-of-mg2-mediated-inhibition-in-ryr1-insights-from-computational-approaches",
+    "slug": "molecular-determinants-of-mg2-mediated-inhibition-in-ryr1-insights-from-computational-approaches",
+    "title": "Molecular Determinants of Mg2+-Mediated Inhibition in RyR1: Insights from Computational Approaches",
+    "authors": [
+      {
+        "name": "Boonamnaj, Panisak"
+      },
+      {
+        "name": "Taweechat, Panyakorn"
+      },
+      {
+        "name": "Lerttanakij, Pisit"
+      },
+      {
+        "name": "Pandey, Ras B"
+      },
+      {
+        "name": "Sams{\\'o}, Montserrat"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      }
+    ],
+    "type": "article",
+    "year": 2025,
+    "featured": false,
+    "recent": true,
+    "journal": "ACS omega",
+    "volume": "10",
+    "issue": "28",
+    "pages": "30757"
+  },
+  {
+    "id": "a-novel-dhp-nh2-fluorescent-dye-for-the-determination-of-water-content-in-organic-solvents-rice-",
+    "slug": "a-novel-dhp-nh2-fluorescent-dye-for-the-determination-of-water-content-in-organic-solvents-rice-",
+    "title": "A novel DHP-NH2 fluorescent dye for the determination of water content in organic solvents, rice, and aspirin: DFT calculations",
+    "authors": [
+      {
+        "name": "Nakprasit, Kittiporn"
+      },
+      {
+        "name": "Taweechat, Panyakorn"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Sukwattanasinitt, Mongkol"
+      },
+      {
+        "name": "Paisuwan, Waroton"
+      },
+      {
+        "name": "Ajavakom, Anawat"
+      }
+    ],
+    "type": "article",
+    "year": 2025,
+    "featured": false,
+    "recent": true,
+    "journal": "Sensors International",
+    "pages": "100349"
+  },
+  {
+    "id": "alpha-glucosidase-inhibitors-from-the-leaves-of-cannabis-sativa-structure-activity-relationship-",
+    "slug": "alpha-glucosidase-inhibitors-from-the-leaves-of-cannabis-sativa-structure-activity-relationship-",
+    "title": "$\\alpha$-Glucosidase Inhibitors from the Leaves of Cannabis sativa: Structure--Activity Relationship, Kinetic Investigation, and Molecular Docking",
+    "authors": [
+      {
+        "name": "Nguyen, Anh-Khoa"
+      },
+      {
+        "name": "Lerttanakij, Pisit"
+      },
+      {
+        "name": "Taweechat, Panyakorn"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Khotwong, Sompop"
+      },
+      {
+        "name": "Wacharasindhu, Sumrit"
+      },
+      {
+        "name": "Phuwapraisirisan, Preecha"
+      }
+    ],
+    "type": "article",
+    "year": 2025,
+    "featured": false,
+    "recent": true,
+    "journal": "Journal of Agricultural and Food Chemistry",
+    "volume": "73",
+    "issue": "33",
+    "pages": "20900--20915"
+  },
+  {
+    "id": "evaluation-of-various-magnetic-ferrite-nanoparticles-for-methionine-gamma-lyase-mgl-immobilizati",
+    "slug": "evaluation-of-various-magnetic-ferrite-nanoparticles-for-methionine-gamma-lyase-mgl-immobilizati",
+    "title": "Evaluation of Various Magnetic Ferrite Nanoparticles for Methionine $\\gamma$-Lyase (MGL) Immobilization: Enhanced Stability and Catalytic Performance of Nanoenzyme Carriers",
+    "authors": [
+      {
+        "name": "Febriansyah, Rahmaga"
+      },
+      {
+        "name": "Mangkalee, Montisa"
+      },
+      {
+        "name": "Thotsaporn, Kittisak"
+      },
+      {
+        "name": "Rungnim, Chompoonut"
+      },
+      {
+        "name": "Taweechat, Panyakorn"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Wannakan, Khemika"
+      },
+      {
+        "name": "Paritmongkol, Watcharaphol"
+      },
+      {
+        "name": "Insin, Numpon"
+      }
+    ],
+    "type": "article",
+    "year": 2025,
+    "featured": false,
+    "recent": true,
+    "journal": "ACS omega",
+    "volume": "10",
+    "issue": "41",
+    "pages": "48130"
+  },
+  {
+    "id": "probing-domain-interactions-in-a-large-multimeric-protein-molecular-dynamics-and-bioinformatic-a",
+    "slug": "probing-domain-interactions-in-a-large-multimeric-protein-molecular-dynamics-and-bioinformatic-a",
+    "title": "Probing domain interactions in a large multimeric protein: molecular dynamics and bioinformatic analysis of closed and open states of RyR1",
+    "authors": [
+      {
+        "name": "Boonamnaj, Panisak"
+      },
+      {
+        "name": "Taweechat, Panyakorn"
+      },
+      {
+        "name": "Lerttanakij, Pisit"
+      },
+      {
+        "name": "Pandey, Ras B"
+      },
+      {
+        "name": "Sams{\\'o}, Montserrat"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      }
+    ],
+    "type": "article",
+    "year": 2025,
+    "featured": false,
+    "recent": true,
+    "journal": "Physical Biology",
+    "volume": "22",
+    "issue": "6",
+    "pages": "066004"
+  },
+  {
+    "id": "distinct-thermal-response-of-sars-cov-2-spike-proteins-s1-and-s2-by-coarse-grained-simulations",
+    "slug": "distinct-thermal-response-of-sars-cov-2-spike-proteins-s1-and-s2-by-coarse-grained-simulations",
+    "title": "Distinct Thermal Response of SARS-CoV-2 Spike Proteins S1 and S2 by Coarse-Grained Simulations",
+    "authors": [
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Hoai, Linh Truong"
+      },
+      {
+        "name": "Boonamnaj, Panisak"
+      },
+      {
+        "name": "Olson, Brian G"
+      },
+      {
+        "name": "Pandey, Ras B"
+      }
+    ],
+    "type": "article",
+    "year": 2025,
+    "featured": false,
+    "recent": true,
+    "journal": "Biophysica",
+    "volume": "5",
+    "issue": "4",
+    "pages": "50"
+  },
+  {
+    "id": "interplay-between-mg2-and-ca2-at-multiple-sites-of-the-ryanodine-receptor",
+    "slug": "interplay-between-mg2-and-ca2-at-multiple-sites-of-the-ryanodine-receptor",
+    "title": "Interplay between Mg2+ and Ca2+ at multiple sites of the ryanodine receptor",
+    "authors": [
+      {
+        "name": "Nayak, Ashok R"
+      },
+      {
+        "name": "Rangubpit, Warin"
+      },
+      {
+        "name": "Will, Alex H"
+      },
+      {
+        "name": "Hu, Yifan"
+      },
+      {
+        "name": "Castro-Hartmann, Pablo"
+      },
+      {
+        "name": "Lobo, Joshua J"
+      },
+      {
+        "name": "Dryden, Kelly"
+      },
+      {
+        "name": "Lamb, Graham D"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      },
+      {
+        "name": "Sams{\\'o}, Montserrat"
+      }
+    ],
+    "type": "article",
+    "year": 2024,
+    "featured": false,
+    "recent": true,
+    "journal": "Nature Communications",
+    "volume": "15",
+    "issue": "1",
+    "pages": "4115"
+  },
+  {
+    "id": "deciphering-molecular-basis-of-pesticide-induced-recurrent-pregnancy-loss-insights-from-transcri",
+    "slug": "deciphering-molecular-basis-of-pesticide-induced-recurrent-pregnancy-loss-insights-from-transcri",
+    "title": "Deciphering molecular basis of pesticide-induced recurrent pregnancy loss: insights from transcriptomics analysis",
+    "authors": [
+      {
+        "name": "Luthfi, Muhammad"
+      },
+      {
+        "name": "Pandey, RB"
+      },
+      {
+        "name": "Su, Yong-Chao"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      }
+    ],
+    "type": "article",
+    "year": 2024,
+    "featured": false,
+    "recent": true,
+    "journal": "Toxicology Mechanisms and Methods",
+    "volume": "34",
+    "issue": "5",
+    "pages": "527--544"
+  },
+  {
+    "id": "comparative-omics-analysis-for-novel-target-discovery-in-plant-pathogens-a-case-study-for-magnap",
+    "slug": "comparative-omics-analysis-for-novel-target-discovery-in-plant-pathogens-a-case-study-for-magnap",
+    "title": "Comparative omics analysis for novel target discovery in plant pathogens: A case study for Magnaporthe oryzae",
+    "authors": [
+      {
+        "name": "Luthfi, Muhammad"
+      },
+      {
+        "name": "Piapukiew, Jittra"
+      },
+      {
+        "name": "Pandey, Ras B"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      }
+    ],
+    "type": "article",
+    "year": 2024,
+    "featured": false,
+    "recent": true,
+    "journal": "Plant Pathology",
+    "volume": "73",
+    "issue": "3",
+    "pages": "564--577"
+  },
+  {
+    "id": "significance-of-zn2-in-ryr1-for-structural-integrity-and-ligand-binding-insight-from-molecular-d",
+    "slug": "significance-of-zn2-in-ryr1-for-structural-integrity-and-ligand-binding-insight-from-molecular-d",
+    "title": "Significance of Zn2+ in RyR1 for structural integrity and ligand binding: insight from molecular dynamics",
+    "authors": [
+      {
+        "name": "Taweechat, Panyakorn"
+      },
+      {
+        "name": "Boonamnaj, Panisak"
+      },
+      {
+        "name": "Sams{\\'o}, Montserrat"
+      },
+      {
+        "name": "Sompornpisut, Pornthep"
+      }
+    ],
+    "type": "article",
+    "year": 2024,
+    "featured": false,
+    "recent": true,
+    "journal": "The Journal of Physical chemistry. B",
+    "volume": "128",
+    "issue": "19",
+    "pages": "4670"
+  },
+  {
+    "id": "evaluating-the-binding-modes-of-hepatitis-b-e-antigen-inhibitor-by-in-silico-method",
+    "slug": "evaluating-the-binding-modes-of-hepatitis-b-e-antigen-inhibitor-by-in-silico-method",
+    "title": "Evaluating the binding modes of hepatitis b e-antigen inhibitor by in silico method",
+    "authors": [
+      {
+        "name": "Yogboworn, Wigrom"
+      }
+    ],
+    "type": "article",
+    "year": 2024,
+    "featured": false,
+    "recent": true
+  }
+]

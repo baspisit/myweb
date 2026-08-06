@@ -1,0 +1,11 @@
+{
+  "siteName": "PS ChemLab",
+  "shortName": "PS ChemLab",
+  "tagline": { "en": "Chemistry education and research resources", "th": "แหล่งทรัพยากรการศึกษาและวิจัยทางเคมี" },
+  "description": { "en": "Software, lectures, publications, and teaching resources by Professor Pornthep Sompornpisut.", "th": "ซอฟต์แวร์ วิดีโอบรรยาย ผลงานตีพิมพ์ และสื่อการสอนโดยศาสตราจารย์พรเทพ สมพรพิสุทธิ์" },
+  "defaultLocale": "en",
+  "supportedLocales": ["en", "th"],
+  "authorId": "pornthep-sompornpisut",
+  "institutionalDisclaimer": { "en": "PS ChemLab is an independent academic resource and is not an official Chulalongkorn University website.", "th": "PS ChemLab เป็นแหล่งทรัพยากรทางวิชาการอิสระและไม่ใช่เว็บไซต์อย่างเป็นทางการของจุฬาลงกรณ์มหาวิทยาลัย" },
+  "contact": { "email": "contact@example.com", "website": "https://example.com" }
+}

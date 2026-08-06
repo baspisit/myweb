@@ -1,0 +1,111 @@
+{
+  "software": [
+    {
+      "name": "Waste Track Explorer (Android)",
+      "platform": "Android",
+      "download": "https://drive.google.com/file/d/1cxIqIVt-a7-8jG3lT3TlBxleNalZvHTM/view?usp=sharing",
+      "icon": "/images/software/waste-track-explorer-android/icon.png",
+      "screenshots": [
+        "/images/software/waste-track-explorer-android/screenshot-1.png",
+        "/images/software/waste-track-explorer-android/screenshot-2.png",
+        "/images/software/waste-track-explorer-android/screenshot-3.png"
+      ]
+    },
+    {
+      "name": "Waste Track Explorer (Windows)",
+      "platform": "Windows",
+      "download": "https://drive.google.com/file/d/1uT536fA5hj2siedVQiUukMXzz8dG4vIP/view?usp=sharing",
+      "screenshots": []
+    },
+    {
+      "name": "ChemLearn_VSEPR",
+      "platform": "",
+      "download": "https://drive.google.com/file/d/1bQH0z3diPkYdv1ssq_mkzBlIcFXBUVB4/view?usp=sharing",
+      "screenshots": [
+        "/images/software/chemlearn-vsepr/screenshot-1.png",
+        "/images/software/chemlearn-vsepr/screenshot-2.png",
+        "/images/software/chemlearn-vsepr/screenshot-3.png"
+      ]
+    },
+    {
+      "name": "ChemLearnLab_Geometry",
+      "platform": "",
+      "download": "https://drive.google.com/file/d/1LAjK9qd6Tz3gmU5UZq-NCJHR6Ln4qoLQ/view?usp=sharing",
+      "icon": "/images/software/chemlearnlab-geometry/icon.png",
+      "screenshots": [
+        "/images/software/chemlearnlab-geometry/screenshot-1.png",
+        "/images/software/chemlearnlab-geometry/screenshot-2.png",
+        "/images/software/chemlearnlab-geometry/screenshot-3.png"
+      ]
+    },
+    {
+      "name": "ChemLearnLab_Crystal",
+      "platform": "",
+      "download": "https://drive.google.com/file/d/18IHJOPkwENibdRLSnsaZbCCoXzvRZxGp/view?usp=sharing",
+      "icon": "/images/software/chemlearnlab-crystal/icon.png",
+      "screenshots": []
+    },
+    {
+      "name": "Drug Molecule Explorer (Windows)",
+      "platform": "Windows",
+      "download": "https://drive.google.com/file/d/1lOJpUC45a7XnM5z7glkzmJJGqP3NSV0_/view?usp=sharing",
+      "screenshots": []
+    },
+    {
+      "name": "Chem3D Tutor v0.1",
+      "platform": "Android",
+      "download": "https://drive.google.com/file/d/1kKdjFqVXuIogSD0ZoHKJcv0cYUJXPf60/view?usp=sharing",
+      "icon": "/images/software/chem3d-tutor-v0-1/icon.png",
+      "screenshots": [
+        "/images/software/chem3d-tutor-v0-1/screenshot-1.png",
+        "/images/software/chem3d-tutor-v0-1/screenshot-2.png"
+      ]
+    },
+    {
+      "name": "AutoProteinBuilder 2.0",
+      "platform": "Linux x86-64",
+      "description": "Prepares solvated protein systems and staged NAMD molecular dynamics workflows through desktop and browser interfaces.",
+      "download": "/software/research/auto-protein-builder/automd-protein-builder_2.0.0_linux-x86_64.tar.gz",
+      "screenshots": [
+        "/images/software/auto-protein-builder/screenshot-1.png"
+      ],
+      "packages": [
+        {
+          "label": "Portable Linux (.tar.gz)",
+          "url": "/software/research/auto-protein-builder/automd-protein-builder_2.0.0_linux-x86_64.tar.gz"
+        },
+        {
+          "label": "Debian/Ubuntu (.deb)",
+          "url": "/software/research/auto-protein-builder/automd-protein-builder_2.0.0_amd64.deb"
+        },
+        {
+          "label": "SHA-256 checksums",
+          "url": "/software/research/auto-protein-builder/SHA256SUMS.txt"
+        }
+      ]
+    },
+    {
+      "name": "AutoAgNPBuilder 1.1",
+      "platform": "Linux x86-64",
+      "description": "Guides preparation of silver-nanoparticle and ligand systems for NAMD molecular dynamics workflows.",
+      "download": "/software/research/auto-agnp-builder/automd-agnp-builder_1.1.0_linux-x86_64.tar.gz",
+      "screenshots": [
+        "/images/software/auto-agnp-builder/screenshot-1.png"
+      ],
+      "packages": [
+        {
+          "label": "Portable Linux (.tar.gz)",
+          "url": "/software/research/auto-agnp-builder/automd-agnp-builder_1.1.0_linux-x86_64.tar.gz"
+        },
+        {
+          "label": "Debian/Ubuntu (.deb)",
+          "url": "/software/research/auto-agnp-builder/automd-agnp-builder_1.1.0_amd64.deb"
+        },
+        {
+          "label": "SHA-256 checksums",
+          "url": "/software/research/auto-agnp-builder/SHA256SUMS.txt"
+        }
+      ]
+    }
+  ]
+}

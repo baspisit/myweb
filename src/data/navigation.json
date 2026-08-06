@@ -1,0 +1,12 @@
+[
+  { "id": "home", "label": { "en": "Home", "th": "หน้าแรก" }, "path": "/" },
+  { "id": "software", "label": { "en": "Software", "th": "ซอฟต์แวร์" }, "path": "/software" },
+  { "id": "courses", "label": { "en": "Courses", "th": "รายวิชา" }, "path": "/courses" },
+  { "id": "videos", "label": { "en": "Video Library", "th": "คลังวิดีโอ" }, "path": "/videos" },
+  { "id": "research", "label": { "en": "Research", "th": "งานวิจัย" }, "path": "/research" },
+  { "id": "publications", "label": { "en": "Publications", "th": "ผลงานตีพิมพ์" }, "path": "/publications" },
+  { "id": "downloads", "label": { "en": "Downloads", "th": "ดาวน์โหลด" }, "path": "/downloads" },
+  { "id": "documentation", "label": { "en": "Documentation", "th": "เอกสาร" }, "path": "/documentation" },
+  { "id": "news", "label": { "en": "News", "th": "ข่าวสาร" }, "path": "/news" },
+  { "id": "about", "label": { "en": "About", "th": "เกี่ยวกับ" }, "path": "/about" }
+]
