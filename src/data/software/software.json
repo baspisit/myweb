@@ -106,6 +106,27 @@
           "url": "/software/research/auto-agnp-builder/SHA256SUMS.txt"
         }
       ]
+    },
+    {
+      "name": "GasDiffusion",
+      "platform": "Android",
+      "description": "An educational chemistry application for studying gas diffusion concepts.",
+      "download": "https://drive.google.com/file/d/1SoB5VZWMoPi0YxH_5kcQ2TC6MVUbn9zS/view",
+      "screenshots": []
+    },
+    {
+      "name": "Vapor Pressure",
+      "platform": "Android",
+      "description": "An educational chemistry application for studying vapor pressure concepts.",
+      "download": "https://drive.google.com/file/d/1Pcy0FF1JB0BsuO1zMrHeGHKMT8x8a3yS/view",
+      "screenshots": []
+    },
+    {
+      "name": "FreezingPoint",
+      "platform": "Android",
+      "description": "An educational chemistry application for studying freezing point depression concepts.",
+      "download": "https://drive.google.com/file/d/1ffgFWrNAKZOeYcyGmNmITqckEC8zGy7t/view",
+      "screenshots": []
     }
   ]
 }
