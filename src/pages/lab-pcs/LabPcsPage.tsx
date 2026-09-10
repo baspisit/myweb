@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import {
   ArrowPathIcon,
   MagnifyingGlassIcon,
@@ -48,27 +48,6 @@ export default function LabPcsPage() {
     { id: 'offline', label: isTh ? 'ออฟไลน์' : 'Offline', count: data?.offlineNodes },
   ];
 
-  const [now, setNow] = useState<number>(Date.now());
-
-  useEffect(() => {
-    const timer = setInterval(() => setNow(Date.now()), 1000);
-    return () => clearInterval(timer);
-  }, []);
-
-  const secondsAgo = data?.timestamp
-    ? Math.max(0, Math.floor((now - new Date(data.timestamp).getTime()) / 1000))
-    : null;
-
-  const timeAgoText =
-    secondsAgo === null
-      ? ''
-      : secondsAgo < 3
-        ? isTh
-          ? 'เพิ่งดึงข้อมูลสักครู่'
-          : 'just now'
-        : isTh
-          ? `เมื่อ ${secondsAgo} วินาทีที่แล้ว`
-          : `${secondsAgo}s ago`;
 
   const lastUpdatedFormatted = data?.timestamp
     ? new Date(data.timestamp).toLocaleTimeString(isTh ? 'th-TH' : 'en-US', {
@@ -257,12 +236,6 @@ export default function LabPcsPage() {
                     <span className={`size-2 rounded-full ${refreshing ? 'bg-amber-500 animate-ping' : 'bg-emerald-500'}`} />
                     <span>{isTh ? 'ดึงข้อมูลเมื่อ:' : 'Data grabbed:'}</span>
                     <strong className="font-mono text-ink">{lastUpdatedFormatted}</strong>
-                    <span className="text-muted/70">({timeAgoText})</span>
-                    {data?.fetchDurationMs && (
-                      <span className="ml-1 text-[11px] text-muted border-l border-line pl-1.5">
-                        ⚡ {(data.fetchDurationMs / 1000).toFixed(2)}s
-                      </span>
-                    )}
                   </span>
                 </div>
               )}
