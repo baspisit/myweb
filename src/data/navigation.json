@@ -5,6 +5,7 @@
   { "id": "videos", "label": { "en": "Video Library", "th": "คลังวิดีโอ" }, "path": "/videos" },
   { "id": "research", "label": { "en": "Research", "th": "งานวิจัย" }, "path": "/research" },
   { "id": "publications", "label": { "en": "Publications", "th": "ผลงานตีพิมพ์" }, "path": "/publications" },
+  { "id": "lab-pcs", "label": { "en": "Lab PCs", "th": "เครื่องในแล็บ" }, "path": "/lab-pcs" },
   { "id": "downloads", "label": { "en": "Downloads", "th": "ดาวน์โหลด" }, "path": "/downloads" },
   { "id": "documentation", "label": { "en": "Documentation", "th": "เอกสาร" }, "path": "/documentation" },
   { "id": "news", "label": { "en": "News", "th": "ข่าวสาร" }, "path": "/news" },

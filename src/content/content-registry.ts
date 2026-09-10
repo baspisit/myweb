@@ -27,6 +27,7 @@ export const pageDescriptions: Record<string, string> = {
   downloads: 'Download teaching materials and chemistry resources from PS ChemLab.',
   documentation: 'Read guides and reference documentation for PS ChemLab software and educational resources.',
   news: 'Read announcements and updates from PS ChemLab.',
+  labpcs: 'Live status, GPU and CPU specifications, and real-time resource utilization of workstations in the PS ChemLab cluster.',
   about: 'Learn about the PS ChemLab mission, educational philosophy, research, software, and academic leadership.',
 };
 

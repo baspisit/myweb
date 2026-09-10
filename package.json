@@ -12,7 +12,9 @@
     "test:watch": "vitest",
     "import-data": "tsx scripts/import-youtube-spreadsheet.ts",
     "import-publications": "tsx scripts/import-publications.ts",
-    "validate:content": "tsx scripts/validate-content.ts"
+    "validate:content": "tsx scripts/validate-content.ts",
+    "cluster:fetch": "tsx scripts/lab-monitor.ts",
+    "cluster:server": "tsx scripts/server.ts"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
