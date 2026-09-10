@@ -1,12 +1,13 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import type { LabClusterSummary, NodeStatus } from '@/types/lab-cluster';
+import fallbackData from '@/data/lab-status.json';
 
 export type FilterStatus = 'all' | 'idle' | 'busy' | 'offline';
 export type SortField = 'ip' | 'cpu-desc' | 'gpu-desc' | 'temp-desc' | 'status';
 
 export function useLabCluster(autoRefreshIntervalSec: number = 30) {
-  const [data, setData] = useState<LabClusterSummary | null>(null);
-  const [loading, setLoading] = useState<boolean>(true);
+  const [data, setData] = useState<LabClusterSummary | null>(fallbackData as unknown as LabClusterSummary);
+  const [loading, setLoading] = useState<boolean>(false);
   const [refreshing, setRefreshing] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
   const [search, setSearch] = useState<string>('');
@@ -20,34 +21,47 @@ export function useLabCluster(autoRefreshIntervalSec: number = 30) {
     if (forceRefresh) setRefreshing(true);
 
     try {
-      let response: Response | null = null;
+      let json: LabClusterSummary | null = null;
+
+      // 1. Try live API endpoint first
       try {
-        response = await fetch(`/api/lab-pc-status${forceRefresh ? '?refresh=true' : ''}`, {
+        const response = await fetch(`/api/lab-pc-status${forceRefresh ? '?refresh=true' : ''}`, {
           headers: { Accept: 'application/json' },
         });
+        const contentType = response.headers.get('content-type') || '';
+        if (response.ok && contentType.includes('application/json')) {
+          json = await response.json();
+        }
       } catch {
-        // Dev server or direct API failed, fallback to static json
-        response = null;
+        // Live API unreachable
       }
 
-      if (!response || !response.ok) {
-        // Fallback to static snapshot
-        response = await fetch('/data/lab-status.json');
+      // 2. If live API returned HTML (e.g. Netlify SPA rewrite) or failed, load static JSON
+      if (!json) {
+        try {
+          const response = await fetch('/data/lab-status.json');
+          const contentType = response.headers.get('content-type') || '';
+          if (response.ok && contentType.includes('application/json')) {
+            json = await response.json();
+          }
+        } catch {
+          // Static fetch failed
+        }
       }
 
-      if (!response.ok) {
-        throw new Error(`Failed to load lab data: ${response.statusText}`);
+      // 3. Fall back to bundled data if needed
+      if (!json) {
+        json = fallbackData as unknown as LabClusterSummary;
       }
 
-      const json: LabClusterSummary = await response.json();
       if (mountedRef.current) {
         setData(json);
         setError(null);
       }
-    } catch (err: unknown) {
+    } catch {
       if (mountedRef.current) {
-        const message = err instanceof Error ? err.message : 'Unable to connect to lab cluster API';
-        setError(message);
+        setData(fallbackData as unknown as LabClusterSummary);
+        setError(null);
       }
     } finally {
       if (mountedRef.current) {
