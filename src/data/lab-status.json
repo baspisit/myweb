@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-11T22:00:04.193Z",
-  "fetchDurationMs": 2063,
+  "timestamp": "2026-09-11T23:00:03.915Z",
+  "fetchDurationMs": 2053,
   "totalNodes": 26,
   "onlineNodes": 9,
   "offlineNodes": 17,
@@ -13,12 +13,12 @@
     {
       "ip": "192.207.64.20",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.153Z"
+      "lastUpdated": "2026-09-11T23:00:03.885Z"
     },
     {
       "ip": "192.207.64.39",
       "status": "online",
-      "lastUpdated": "2026-09-11T22:00:02.752Z",
+      "lastUpdated": "2026-09-11T23:00:02.473Z",
       "cpu": {
         "model": "AMD Ryzen 9 9950X 16-Core",
         "cores": 32,
@@ -30,25 +30,25 @@
           "usagePercent": 0,
           "memoryUsedMb": 15,
           "memoryTotalMb": 12227,
-          "temperatureC": 48
+          "temperatureC": 49
         }
       ],
       "ram": {
         "totalMb": 31155,
-        "usedMb": 1903,
+        "usedMb": 1859,
         "usagePercent": 6
       },
-      "uptime": "up 1 day, 4 hours, 5 minutes"
+      "uptime": "up 1 day, 5 hours, 5 minutes"
     },
     {
       "ip": "192.207.64.65",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.155Z"
+      "lastUpdated": "2026-09-11T23:00:03.886Z"
     },
     {
       "ip": "192.207.64.71",
       "status": "online",
-      "lastUpdated": "2026-09-11T22:00:02.911Z",
+      "lastUpdated": "2026-09-11T23:00:02.636Z",
       "cpu": {
         "model": "Intel Core i7-14700",
         "cores": 28,
@@ -65,55 +65,55 @@
       ],
       "ram": {
         "totalMb": 31831,
-        "usedMb": 1251,
+        "usedMb": 1261,
         "usagePercent": 4
       },
-      "uptime": "up 1 day, 4 hours, 5 minutes"
+      "uptime": "up 1 day, 5 hours, 5 minutes"
     },
     {
       "ip": "192.207.64.72",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.158Z"
+      "lastUpdated": "2026-09-11T23:00:03.889Z"
     },
     {
       "ip": "192.207.64.84",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.158Z"
+      "lastUpdated": "2026-09-11T23:00:03.890Z"
     },
     {
       "ip": "192.207.64.85",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.160Z"
+      "lastUpdated": "2026-09-11T23:00:03.891Z"
     },
     {
       "ip": "192.207.64.86",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.160Z"
+      "lastUpdated": "2026-09-11T23:00:03.892Z"
     },
     {
       "ip": "192.207.64.87",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.161Z"
+      "lastUpdated": "2026-09-11T23:00:03.892Z"
     },
     {
       "ip": "192.207.64.88",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.161Z"
+      "lastUpdated": "2026-09-11T23:00:03.893Z"
     },
     {
       "ip": "192.207.64.89",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.178Z"
+      "lastUpdated": "2026-09-11T23:00:03.901Z"
     },
     {
       "ip": "192.207.64.90",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.180Z"
+      "lastUpdated": "2026-09-11T23:00:03.902Z"
     },
     {
       "ip": "192.207.64.91",
       "status": "online",
-      "lastUpdated": "2026-09-11T22:00:02.754Z",
+      "lastUpdated": "2026-09-11T23:00:02.424Z",
       "cpu": {
         "model": "Intel Core i7-13700KF",
         "cores": 24,
@@ -130,15 +130,15 @@
       ],
       "ram": {
         "totalMb": 31926,
-        "usedMb": 488,
+        "usedMb": 490,
         "usagePercent": 2
       },
-      "uptime": "up 1 day, 4 hours, 5 minutes"
+      "uptime": "up 1 day, 5 hours, 5 minutes"
     },
     {
       "ip": "192.207.64.92",
       "status": "online",
-      "lastUpdated": "2026-09-11T22:00:02.786Z",
+      "lastUpdated": "2026-09-11T23:00:02.469Z",
       "cpu": {
         "model": "Intel Core i7-13700KF",
         "cores": 24,
@@ -155,15 +155,15 @@
       ],
       "ram": {
         "totalMb": 64122,
-        "usedMb": 570,
+        "usedMb": 573,
         "usagePercent": 1
       },
-      "uptime": "up 1 day, 4 hours, 5 minutes"
+      "uptime": "up 1 day, 5 hours, 5 minutes"
     },
     {
       "ip": "192.207.64.93",
       "status": "online",
-      "lastUpdated": "2026-09-11T22:00:02.801Z",
+      "lastUpdated": "2026-09-11T23:00:02.501Z",
       "cpu": {
         "model": "Intel Core i7-13700",
         "cores": 24,
@@ -175,20 +175,20 @@
           "usagePercent": 0,
           "memoryUsedMb": 21,
           "memoryTotalMb": 12282,
-          "temperatureC": 54
+          "temperatureC": 49
         }
       ],
       "ram": {
         "totalMb": 31857,
-        "usedMb": 599,
+        "usedMb": 595,
         "usagePercent": 2
       },
-      "uptime": "up 1 day, 4 hours, 5 minutes"
+      "uptime": "up 1 day, 5 hours, 5 minutes"
     },
     {
       "ip": "192.207.64.94",
       "status": "online",
-      "lastUpdated": "2026-09-11T22:00:02.765Z",
+      "lastUpdated": "2026-09-11T23:00:02.501Z",
       "cpu": {
         "model": "Intel Core i7-13700",
         "cores": 24,
@@ -205,15 +205,15 @@
       ],
       "ram": {
         "totalMb": 31870,
-        "usedMb": 556,
+        "usedMb": 557,
         "usagePercent": 2
       },
-      "uptime": "up 1 day, 4 hours, 5 minutes"
+      "uptime": "up 1 day, 5 hours, 5 minutes"
     },
     {
       "ip": "192.207.64.95",
       "status": "online",
-      "lastUpdated": "2026-09-11T22:00:02.866Z",
+      "lastUpdated": "2026-09-11T23:00:02.611Z",
       "cpu": {
         "model": "Intel Core i7-13700",
         "cores": 24,
@@ -233,32 +233,32 @@
         "usedMb": 610,
         "usagePercent": 2
       },
-      "uptime": "up 1 day, 4 hours, 5 minutes"
+      "uptime": "up 1 day, 5 hours, 5 minutes"
     },
     {
       "ip": "192.207.64.97",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.187Z"
+      "lastUpdated": "2026-09-11T23:00:03.907Z"
     },
     {
       "ip": "192.207.64.98",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.187Z"
+      "lastUpdated": "2026-09-11T23:00:03.908Z"
     },
     {
       "ip": "192.207.64.99",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.188Z"
+      "lastUpdated": "2026-09-11T23:00:03.909Z"
     },
     {
       "ip": "192.207.64.100",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.189Z"
+      "lastUpdated": "2026-09-11T23:00:03.910Z"
     },
     {
       "ip": "192.207.64.138",
       "status": "online",
-      "lastUpdated": "2026-09-11T22:00:02.753Z",
+      "lastUpdated": "2026-09-11T23:00:02.484Z",
       "cpu": {
         "model": "AMD Ryzen 7 9700X 8-Core",
         "cores": 16,
@@ -275,20 +275,20 @@
       ],
       "ram": {
         "totalMb": 31162,
-        "usedMb": 1354,
+        "usedMb": 1356,
         "usagePercent": 4
       },
-      "uptime": "up 1 day, 4 hours, 5 minutes"
+      "uptime": "up 1 day, 5 hours, 5 minutes"
     },
     {
       "ip": "192.207.64.142",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.190Z"
+      "lastUpdated": "2026-09-11T23:00:03.912Z"
     },
     {
       "ip": "192.207.64.144",
       "status": "online",
-      "lastUpdated": "2026-09-11T22:00:02.857Z",
+      "lastUpdated": "2026-09-11T23:00:02.534Z",
       "cpu": {
         "model": "Intel Core i7-14700",
         "cores": 28,
@@ -305,20 +305,20 @@
       ],
       "ram": {
         "totalMb": 31831,
-        "usedMb": 517,
+        "usedMb": 508,
         "usagePercent": 2
       },
-      "uptime": "up 1 day, 4 hours, 5 minutes"
+      "uptime": "up 1 day, 5 hours, 5 minutes"
     },
     {
       "ip": "192.207.64.147",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.192Z"
+      "lastUpdated": "2026-09-11T23:00:03.914Z"
     },
     {
       "ip": "192.207.64.149",
       "status": "offline",
-      "lastUpdated": "2026-09-11T22:00:04.193Z"
+      "lastUpdated": "2026-09-11T23:00:03.915Z"
     }
   ]
 }
