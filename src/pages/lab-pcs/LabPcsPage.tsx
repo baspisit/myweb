@@ -17,6 +17,7 @@ import { LoadingState } from '@/components/ui/LoadingState';
 import { useDocumentTitle } from '@/hooks/useDocumentTitle';
 import { useLocale } from '@/hooks/useLocale';
 import { useLabCluster, type FilterStatus, type SortField } from '@/hooks/useLabCluster';
+import { formatDateTime } from '@/lib/dates';
 
 export default function LabPcsPage() {
   useDocumentTitle('Lab Workstations', 'Real-time CPU and GPU monitor for PS ChemLab workstations.');
@@ -50,11 +51,7 @@ export default function LabPcsPage() {
 
 
   const lastUpdatedFormatted = data?.timestamp
-    ? new Date(data.timestamp).toLocaleTimeString(isTh ? 'th-TH' : 'en-US', {
-        hour: '2-digit',
-        minute: '2-digit',
-        second: '2-digit',
-      })
+    ? formatDateTime(data.timestamp, locale)
     : '';
 
   return (
