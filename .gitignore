@@ -10,3 +10,4 @@ coverage
 *.txt
 !robots.txt
 artifacts/
+*.log

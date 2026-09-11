@@ -16,7 +16,7 @@ npm run cluster:fetch
 if git status --porcelain | grep -q 'lab-status.json'; then
   git add public/data/lab-status.json src/data/lab-status.json
   TIMESTAMP=$(date '+%Y-%m-%d %H:%M')
-  git commit -m "chore: auto-update lab status [${TIMESTAMP}]"
+  git commit -m "chore: auto-update lab status [${TIMESTAMP}] [skip ci]"
   git push origin main
   echo "Successfully pushed updated lab status to GitHub."
 else

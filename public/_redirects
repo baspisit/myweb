@@ -1,1 +1,5 @@
+# Cloudflare Tunnel proxy for live lab PC status
+# Once you have your tunnel domain (e.g. lab-api.yourdomain.com), uncomment and set it here:
+# /api/lab-pc-status  https://lab-api.yourdomain.com/api/lab-pc-status  200!
+
 /*    /index.html   200
