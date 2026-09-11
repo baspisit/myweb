@@ -36,7 +36,21 @@ export function useLabCluster(autoRefreshIntervalSec: number = 30) {
         // Live API unreachable
       }
 
-      // 2. If live API returned HTML (e.g. Netlify SPA rewrite) or failed, load static JSON
+      // 2. Try fetching latest updated data from GitHub (updated hourly by cron)
+      if (!json) {
+        try {
+          const response = await fetch(
+            `https://raw.githubusercontent.com/baspisit/myweb/main/public/data/lab-status.json?t=${Date.now()}`
+          );
+          if (response.ok) {
+            json = await response.json();
+          }
+        } catch {
+          // GitHub raw fetch failed
+        }
+      }
+
+      // 3. If GitHub fetch failed, try local static JSON
       if (!json) {
         try {
           const response = await fetch('/data/lab-status.json');
