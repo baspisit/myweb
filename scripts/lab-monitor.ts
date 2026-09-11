@@ -270,15 +270,20 @@ export async function fetchAllNodes(forceRefresh = false): Promise<LabClusterSum
   cachedSummary = summary;
   lastFetchTime = now;
 
-  // Save to public/data/lab-status.json for static fallback / build
+  // Save to public/data/lab-status.json and src/data/lab-status.json for static fallback / build
   try {
     const publicDataDir = path.resolve(process.cwd(), 'public/data');
     if (!fs.existsSync(publicDataDir)) {
       fs.mkdirSync(publicDataDir, { recursive: true });
     }
     fs.writeFileSync(path.join(publicDataDir, 'lab-status.json'), JSON.stringify(summary, null, 2), 'utf-8');
+
+    const srcDataDir = path.resolve(process.cwd(), 'src/data');
+    if (fs.existsSync(srcDataDir)) {
+      fs.writeFileSync(path.join(srcDataDir, 'lab-status.json'), JSON.stringify(summary, null, 2), 'utf-8');
+    }
   } catch (err) {
-    console.error('Failed to write public/data/lab-status.json:', err);
+    console.error('Failed to write lab-status.json:', err);
   }
 
   return summary;
