@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-26T21:00:04.649Z",
-  "fetchDurationMs": 2953,
+  "timestamp": "2026-10-26T22:00:04.814Z",
+  "fetchDurationMs": 3174,
   "totalNodes": 27,
   "onlineNodes": 26,
   "offlineNodes": 1,
   "totalGpus": 29,
-  "avgGpuUsagePercent": 14,
+  "avgGpuUsagePercent": 16,
   "avgCpuUsagePercent": 39,
   "busyNodes": 12,
   "idleNodes": 14,
@@ -13,7 +13,7 @@
     {
       "ip": "192.207.64.20",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.485Z",
+      "lastUpdated": "2026-10-26T22:00:02.421Z",
       "cpu": {
         "model": "Intel Core i7-5820K",
         "cores": 12,
@@ -22,14 +22,14 @@
       "gpus": [
         {
           "model": "GTX 1060 3GB",
-          "usagePercent": 3,
+          "usagePercent": 12,
           "memoryUsedMb": 136,
           "memoryTotalMb": 3072,
           "temperatureC": 71
         },
         {
           "model": "RTX 2060 SUPER",
-          "usagePercent": 32,
+          "usagePercent": 30,
           "memoryUsedMb": 207,
           "memoryTotalMb": 8192,
           "temperatureC": 66
@@ -37,15 +37,15 @@
       ],
       "ram": {
         "totalMb": 31982,
-        "usedMb": 1254,
+        "usedMb": 1248,
         "usagePercent": 4
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 43 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 43 minutes"
     },
     {
       "ip": "192.207.64.39",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.495Z",
+      "lastUpdated": "2026-10-26T22:00:02.362Z",
       "cpu": {
         "model": "AMD Ryzen 9 9950X 16-Core",
         "cores": 32,
@@ -62,15 +62,15 @@
       ],
       "ram": {
         "totalMb": 31155,
-        "usedMb": 17040,
+        "usedMb": 17060,
         "usagePercent": 55
       },
-      "uptime": "up 6 weeks, 4 days, 3 hours, 3 minutes"
+      "uptime": "up 6 weeks, 4 days, 4 hours, 3 minutes"
     },
     {
       "ip": "192.207.64.65",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.162Z",
+      "lastUpdated": "2026-10-26T22:00:02.112Z",
       "cpu": {
         "model": "Intel Core i9-9900K",
         "cores": 16,
@@ -82,20 +82,20 @@
           "usagePercent": 0,
           "memoryUsedMb": 28,
           "memoryTotalMb": 8192,
-          "temperatureC": 51
+          "temperatureC": 53
         }
       ],
       "ram": {
         "totalMb": 64241,
-        "usedMb": 297,
+        "usedMb": 298,
         "usagePercent": 0
       },
-      "uptime": "up 1 week, 3 days, 17 hours, 22 minutes"
+      "uptime": "up 1 week, 3 days, 18 hours, 22 minutes"
     },
     {
       "ip": "192.207.64.71",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.414Z",
+      "lastUpdated": "2026-10-26T22:00:02.360Z",
       "cpu": {
         "model": "Intel Core i7-14700",
         "cores": 28,
@@ -115,12 +115,12 @@
         "usedMb": 1410,
         "usagePercent": 4
       },
-      "uptime": "up 6 weeks, 2 days, 16 hours, 24 minutes"
+      "uptime": "up 6 weeks, 2 days, 17 hours, 24 minutes"
     },
     {
       "ip": "192.207.64.72",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.563Z",
+      "lastUpdated": "2026-10-26T22:00:02.500Z",
       "cpu": {
         "model": "Intel Core i7-8700",
         "cores": 12,
@@ -129,14 +129,14 @@
       "gpus": [
         {
           "model": "GTX 1060 3GB",
-          "usagePercent": 14,
+          "usagePercent": 15,
           "memoryUsedMb": 172,
           "memoryTotalMb": 3072,
-          "temperatureC": 76
+          "temperatureC": 75
         },
         {
           "model": "GTX 1060 3GB",
-          "usagePercent": 16,
+          "usagePercent": 15,
           "memoryUsedMb": 139,
           "memoryTotalMb": 3072,
           "temperatureC": 69
@@ -144,15 +144,15 @@
       ],
       "ram": {
         "totalMb": 32008,
-        "usedMb": 1282,
+        "usedMb": 1280,
         "usagePercent": 4
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 43 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 43 minutes"
     },
     {
       "ip": "192.207.64.84",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.134Z",
+      "lastUpdated": "2026-10-26T22:00:02.097Z",
       "cpu": {
         "model": "Intel Core i7-8700K",
         "cores": 12,
@@ -169,27 +169,27 @@
       ],
       "ram": {
         "totalMb": 15968,
-        "usedMb": 634,
+        "usedMb": 639,
         "usagePercent": 4
       },
-      "uptime": "up 6 weeks, 2 days, 17 hours, 59 minutes"
+      "uptime": "up 6 weeks, 2 days, 18 hours, 59 minutes"
     },
     {
       "ip": "192.207.64.85",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:03.031Z",
+      "lastUpdated": "2026-10-26T22:00:03.109Z",
       "cpu": {
         "model": "Intel Core i7-6800K",
         "cores": 12,
-        "usagePercent": 99
+        "usagePercent": 100
       },
       "gpus": [
         {
           "model": "GTX 970",
-          "usagePercent": 21,
+          "usagePercent": 23,
           "memoryUsedMb": 210,
           "memoryTotalMb": 4041,
-          "temperatureC": 78
+          "temperatureC": 77
         }
       ],
       "ram": {
@@ -197,12 +197,12 @@
         "usedMb": 683,
         "usagePercent": 2
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 43 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 43 minutes"
     },
     {
       "ip": "192.207.64.86",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.384Z",
+      "lastUpdated": "2026-10-26T22:00:02.357Z",
       "cpu": {
         "model": "Intel Core i7-5820K",
         "cores": 12,
@@ -214,7 +214,7 @@
           "usagePercent": 0,
           "memoryUsedMb": 52,
           "memoryTotalMb": 8192,
-          "temperatureC": 48
+          "temperatureC": 49
         },
         {
           "model": "GTX 1070",
@@ -226,15 +226,15 @@
       ],
       "ram": {
         "totalMb": 7837,
-        "usedMb": 424,
+        "usedMb": 430,
         "usagePercent": 5
       },
-      "uptime": "up 6 weeks, 2 days, 14 hours"
+      "uptime": "up 6 weeks, 2 days, 15 hours"
     },
     {
       "ip": "192.207.64.87",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.376Z",
+      "lastUpdated": "2026-10-26T22:00:02.320Z",
       "cpu": {
         "model": "AMD Ryzen 5 3500X 6-Core",
         "cores": 6,
@@ -243,15 +243,15 @@
       "gpus": [],
       "ram": {
         "totalMb": 15902,
-        "usedMb": 1960,
+        "usedMb": 1963,
         "usagePercent": 12
       },
-      "uptime": "up 6 weeks, 2 days, 16 hours, 7 minutes"
+      "uptime": "up 6 weeks, 2 days, 17 hours, 7 minutes"
     },
     {
       "ip": "192.207.64.88",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.404Z",
+      "lastUpdated": "2026-10-26T22:00:02.335Z",
       "cpu": {
         "model": "Intel Core Ultra 7 265K",
         "cores": 20,
@@ -263,7 +263,7 @@
           "usagePercent": 0,
           "memoryUsedMb": 98,
           "memoryTotalMb": 12227,
-          "temperatureC": 35
+          "temperatureC": 36
         }
       ],
       "ram": {
@@ -271,53 +271,53 @@
         "usedMb": 819,
         "usagePercent": 3
       },
-      "uptime": "up 6 weeks, 2 days, 15 hours, 57 minutes"
+      "uptime": "up 6 weeks, 2 days, 16 hours, 57 minutes"
     },
     {
       "ip": "192.207.64.89",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.305Z",
+      "lastUpdated": "2026-10-26T22:00:02.273Z",
       "cpu": {
         "model": "Intel Core Ultra 7 265K",
         "cores": 20,
-        "usagePercent": 99
+        "usagePercent": 100
       },
       "gpus": [
         {
           "model": "RTX 5070",
-          "usagePercent": 13,
-          "memoryUsedMb": 344,
+          "usagePercent": 0,
+          "memoryUsedMb": 224,
           "memoryTotalMb": 12227,
-          "temperatureC": 53
+          "temperatureC": 46
         }
       ],
       "ram": {
         "totalMb": 31434,
-        "usedMb": 1566,
-        "usagePercent": 5
+        "usedMb": 1374,
+        "usagePercent": 4
       },
-      "uptime": "up 1 week, 1 day, 3 hours, 54 minutes"
+      "uptime": "up 1 week, 1 day, 4 hours, 54 minutes"
     },
     {
       "ip": "192.207.64.90",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:04.648Z",
+      "lastUpdated": "2026-10-26T22:00:04.813Z",
       "cpu": {
         "model": "Intel Core i7         870",
         "cores": 8,
-        "usagePercent": 99
+        "usagePercent": 100
       },
       "gpus": [
         {
           "model": "GTX 1060 3GB",
-          "usagePercent": 3,
+          "usagePercent": 6,
           "memoryUsedMb": 168,
           "memoryTotalMb": 3072,
           "temperatureC": 56
         },
         {
           "model": "GTX 1060 3GB",
-          "usagePercent": 6,
+          "usagePercent": 10,
           "memoryUsedMb": 129,
           "memoryTotalMb": 3072,
           "temperatureC": 51
@@ -325,15 +325,15 @@
       ],
       "ram": {
         "totalMb": 7934,
-        "usedMb": 1514,
+        "usedMb": 1521,
         "usagePercent": 19
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 43 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 43 minutes"
     },
     {
       "ip": "192.207.64.91",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.292Z",
+      "lastUpdated": "2026-10-26T22:00:02.190Z",
       "cpu": {
         "model": "Intel Core i7-13700KF",
         "cores": 24,
@@ -345,7 +345,7 @@
           "usagePercent": 0,
           "memoryUsedMb": 18,
           "memoryTotalMb": 8192,
-          "temperatureC": 51
+          "temperatureC": 53
         }
       ],
       "ram": {
@@ -353,37 +353,37 @@
         "usedMb": 605,
         "usagePercent": 2
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 39 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 39 minutes"
     },
     {
       "ip": "192.207.64.92",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.359Z",
+      "lastUpdated": "2026-10-26T22:00:02.309Z",
       "cpu": {
         "model": "Intel Core i7-13700KF",
         "cores": 24,
-        "usagePercent": 91
+        "usagePercent": 96
       },
       "gpus": [
         {
           "model": "RTX 3070 Ti",
-          "usagePercent": 24,
+          "usagePercent": 8,
           "memoryUsedMb": 329,
           "memoryTotalMb": 8192,
-          "temperatureC": 66
+          "temperatureC": 67
         }
       ],
       "ram": {
         "totalMb": 64122,
-        "usedMb": 1158,
+        "usedMb": 1168,
         "usagePercent": 2
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 31 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 31 minutes"
     },
     {
       "ip": "192.207.64.93",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.290Z",
+      "lastUpdated": "2026-10-26T22:00:02.206Z",
       "cpu": {
         "model": "Intel Core i7-13700",
         "cores": 24,
@@ -395,20 +395,20 @@
           "usagePercent": 0,
           "memoryUsedMb": 21,
           "memoryTotalMb": 12282,
-          "temperatureC": 39
+          "temperatureC": 40
         }
       ],
       "ram": {
         "totalMb": 31857,
-        "usedMb": 1066,
+        "usedMb": 1068,
         "usagePercent": 3
       },
-      "uptime": "up 6 weeks, 4 days, 3 hours, 5 minutes"
+      "uptime": "up 6 weeks, 4 days, 4 hours, 5 minutes"
     },
     {
       "ip": "192.207.64.94",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.368Z",
+      "lastUpdated": "2026-10-26T22:00:02.296Z",
       "cpu": {
         "model": "Intel Core i7-13700",
         "cores": 24,
@@ -420,7 +420,7 @@
           "usagePercent": 0,
           "memoryUsedMb": 18,
           "memoryTotalMb": 12282,
-          "temperatureC": 52
+          "temperatureC": 54
         }
       ],
       "ram": {
@@ -428,37 +428,37 @@
         "usedMb": 685,
         "usagePercent": 2
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 39 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 39 minutes"
     },
     {
       "ip": "192.207.64.95",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.360Z",
+      "lastUpdated": "2026-10-26T22:00:02.287Z",
       "cpu": {
         "model": "Intel Core i7-13700",
         "cores": 24,
-        "usagePercent": 94
+        "usagePercent": 95
       },
       "gpus": [
         {
           "model": "RTX 4070",
-          "usagePercent": 23,
-          "memoryUsedMb": 369,
+          "usagePercent": 51,
+          "memoryUsedMb": 365,
           "memoryTotalMb": 12282,
           "temperatureC": 68
         }
       ],
       "ram": {
         "totalMb": 31857,
-        "usedMb": 980,
+        "usedMb": 976,
         "usagePercent": 3
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 38 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 38 minutes"
     },
     {
       "ip": "192.207.64.96",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.340Z",
+      "lastUpdated": "2026-10-26T22:00:02.321Z",
       "cpu": {
         "model": "Intel Core i7-14700",
         "cores": 28,
@@ -470,20 +470,20 @@
           "usagePercent": 0,
           "memoryUsedMb": 54,
           "memoryTotalMb": 12282,
-          "temperatureC": 41
+          "temperatureC": 42
         }
       ],
       "ram": {
         "totalMb": 64050,
-        "usedMb": 798,
+        "usedMb": 785,
         "usagePercent": 1
       },
-      "uptime": "up 6 weeks, 2 days, 15 hours, 49 minutes"
+      "uptime": "up 6 weeks, 2 days, 16 hours, 49 minutes"
     },
     {
       "ip": "192.207.64.97",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.314Z",
+      "lastUpdated": "2026-10-26T22:00:02.279Z",
       "cpu": {
         "model": "Intel Core i7-9700F",
         "cores": 8,
@@ -492,7 +492,7 @@
       "gpus": [
         {
           "model": "RTX 3060 Ti",
-          "usagePercent": 1,
+          "usagePercent": 0,
           "memoryUsedMb": 68,
           "memoryTotalMb": 8192,
           "temperatureC": 52
@@ -500,40 +500,40 @@
       ],
       "ram": {
         "totalMb": 32043,
-        "usedMb": 539,
+        "usedMb": 535,
         "usagePercent": 2
       },
-      "uptime": "up 6 weeks, 2 days, 15 hours, 46 minutes"
+      "uptime": "up 6 weeks, 2 days, 16 hours, 46 minutes"
     },
     {
       "ip": "192.207.64.98",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.581Z",
+      "lastUpdated": "2026-10-26T22:00:02.515Z",
       "cpu": {
         "model": "Intel Xeon E5-2660 v4",
         "cores": 56,
-        "usagePercent": 3
+        "usagePercent": 4
       },
       "gpus": [
         {
           "model": "RTX 5060",
           "usagePercent": 98,
-          "memoryUsedMb": 2106,
+          "memoryUsedMb": 2107,
           "memoryTotalMb": 8151,
-          "temperatureC": 77
+          "temperatureC": 75
         }
       ],
       "ram": {
         "totalMb": 80290,
-        "usedMb": 8447,
+        "usedMb": 8482,
         "usagePercent": 11
       },
-      "uptime": "up 6 weeks, 2 days, 15 hours, 15 minutes"
+      "uptime": "up 6 weeks, 2 days, 16 hours, 15 minutes"
     },
     {
       "ip": "192.207.64.99",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.331Z",
+      "lastUpdated": "2026-10-26T22:00:02.276Z",
       "cpu": {
         "model": "AMD Ryzen 7 9800X3D 8-Core",
         "cores": 16,
@@ -550,19 +550,19 @@
       ],
       "ram": {
         "totalMb": 31215,
-        "usedMb": 1437,
+        "usedMb": 1451,
         "usagePercent": 5
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 18 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 18 minutes"
     },
     {
       "ip": "192.207.64.100",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.241Z",
+      "lastUpdated": "2026-10-26T22:00:02.182Z",
       "cpu": {
         "model": "Intel Core i9-14900",
         "cores": 32,
-        "usagePercent": 25
+        "usagePercent": 24
       },
       "gpus": [
         {
@@ -575,15 +575,15 @@
       ],
       "ram": {
         "totalMb": 31807,
-        "usedMb": 3642,
+        "usedMb": 3653,
         "usagePercent": 11
       },
-      "uptime": "up 6 weeks, 2 days, 16 hours, 23 minutes"
+      "uptime": "up 6 weeks, 2 days, 17 hours, 23 minutes"
     },
     {
       "ip": "192.207.64.138",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.457Z",
+      "lastUpdated": "2026-10-26T22:00:02.535Z",
       "cpu": {
         "model": "AMD Ryzen 7 9700X 8-Core",
         "cores": 16,
@@ -592,53 +592,53 @@
       "gpus": [
         {
           "model": "RTX 5070",
-          "usagePercent": 9,
+          "usagePercent": 31,
           "memoryUsedMb": 345,
           "memoryTotalMb": 12227,
-          "temperatureC": 59
+          "temperatureC": 63
         }
       ],
       "ram": {
         "totalMb": 31162,
-        "usedMb": 2251,
+        "usedMb": 2252,
         "usagePercent": 7
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 42 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 42 minutes"
     },
     {
       "ip": "192.207.64.142",
       "status": "offline",
-      "lastUpdated": "2026-10-26T21:00:03.748Z"
+      "lastUpdated": "2026-10-26T22:00:03.691Z"
     },
     {
       "ip": "192.207.64.144",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.385Z",
+      "lastUpdated": "2026-10-26T22:00:02.324Z",
       "cpu": {
         "model": "Intel Core i7-14700",
         "cores": 28,
-        "usagePercent": 96
+        "usagePercent": 95
       },
       "gpus": [
         {
           "model": "RTX 4070 SUPER",
-          "usagePercent": 41,
+          "usagePercent": 63,
           "memoryUsedMb": 385,
           "memoryTotalMb": 12282,
-          "temperatureC": 62
+          "temperatureC": 63
         }
       ],
       "ram": {
         "totalMb": 31831,
-        "usedMb": 885,
+        "usedMb": 881,
         "usagePercent": 3
       },
-      "uptime": "up 1 week, 3 days, 18 hours, 43 minutes"
+      "uptime": "up 1 week, 3 days, 19 hours, 43 minutes"
     },
     {
       "ip": "192.207.64.147",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.256Z",
+      "lastUpdated": "2026-10-26T22:00:02.177Z",
       "cpu": {
         "model": "Intel Core i7-4790",
         "cores": 8,
@@ -655,15 +655,15 @@
       ],
       "ram": {
         "totalMb": 15931,
-        "usedMb": 873,
+        "usedMb": 872,
         "usagePercent": 5
       },
-      "uptime": "up 6 weeks, 2 days, 15 hours, 10 minutes"
+      "uptime": "up 6 weeks, 2 days, 16 hours, 10 minutes"
     },
     {
       "ip": "192.207.64.149",
       "status": "online",
-      "lastUpdated": "2026-10-26T21:00:02.353Z",
+      "lastUpdated": "2026-10-26T22:00:02.300Z",
       "cpu": {
         "model": "Intel Core i7-4790",
         "cores": 8,
@@ -680,10 +680,10 @@
       ],
       "ram": {
         "totalMb": 15930,
-        "usedMb": 425,
+        "usedMb": 420,
         "usagePercent": 3
       },
-      "uptime": "up 6 weeks, 2 days, 16 hours, 21 minutes"
+      "uptime": "up 6 weeks, 2 days, 17 hours, 21 minutes"
     }
   ]
 }
